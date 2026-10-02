@@ -1,6 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sport en France" tvg-logo="" group-title="Sports",Sport en France
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(kVcaw5Yox9Oq7EwZGOt3FcHmABSJkurXqssrydFOiulsZMNyScrOuDICyDTt2DKC5UtVVn2KEuhmCaEFIsMHkG1Xug1aGNTvofqduUXJuDpf3Kdmht2Y2TRGS_6bQa6e)/cloud/3/x8sayn8/d/live-720.m3u8
+#EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="9510" tvg-name="#### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####" tvg-logo="https://i.ibb.co/prQGp2k4/Prime-Video-GIF.gif" group-title="FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",#### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=1537539&extension=ts&play_token=4cl4lQgHic
 #EXTINF:-1 tvg-id="9511" tvg-name="PRIME: 13EME RUE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: 13EME RUE ᴿᴬᵂ
