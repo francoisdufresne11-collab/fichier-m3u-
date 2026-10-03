@@ -33,7 +33,288 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=1537525&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=1537524&extension=ts&play_token=QUcPumoGrF
 #EXTINF:-1 tvg-id="9526" tvg-name="PRIME: CRIME DISTRICT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CRIME DISTRICT ᴿᴬᵂ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=1537523&extension=ts&play_token=XW2rbDLOT6
-#EXTINF:-1 tvg-id="9527" tvg-name="PRIME: DISCOVERY CHANNEL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DISCOVERY CHANNEL ᴿᴬᵂ
+#EXTINF:-1 tvg-id="9527" tvg-name="PRIME: DISCOVERY CHANNEL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DISCOVERY CHANNEL ᴿᴬᵂ 
+
+#EXTINF:-1 tvg-id="12955" tvg-name="######## GENERAL FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| GENERAL FR",######## GENERAL FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=413885&extension=ts&play_token=mqSjP6ZCc9
+#EXTINF:-1 tvg-id="12956" tvg-name="CA FR: CANAL D HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6028.jpg?88039" group-title="CA| GENERAL FR",CA FR: CANAL D HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412862&extension=ts&play_token=HMCChZLBAj
+#EXTINF:-1 tvg-id="12957" tvg-name="CA FR: CANAL M FM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10032.jpg?29435" group-title="CA| GENERAL FR",CA FR: CANAL M FM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412834&extension=ts&play_token=1hDKSfvnKc
+#EXTINF:-1 tvg-id="12958" tvg-name="CA FR: CANAL SAVOIR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10036.jpg?18137" group-title="CA| GENERAL FR",CA FR: CANAL SAVOIR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412951&extension=ts&play_token=mpelPy80Pf
+#EXTINF:-1 tvg-id="12959" tvg-name="CA FR: CANAL VIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10031.jpg?97885" group-title="CA| GENERAL FR",CA FR: CANAL VIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412950&extension=ts&play_token=aF0PRb8TAT
+#EXTINF:-1 tvg-id="12960" tvg-name="CA FR: CBC MONTREAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2331.jpg?43140" group-title="CA| GENERAL FR",CA FR: CBC MONTREAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412948&extension=ts&play_token=jVETiGmvX5
+#EXTINF:-1 tvg-id="12961" tvg-name="CA FR: CGTN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11391.jpg?48288" group-title="CA| GENERAL FR",CA FR: CGTN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412891&extension=ts&play_token=ujQff6pRw7
+#EXTINF:-1 tvg-id="12962" tvg-name="CA FR: EMCI TV (FR)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8483.jpg?17550" group-title="CA| GENERAL FR",CA FR: EMCI TV (FR)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412869&extension=ts&play_token=mx1dYUnm5j
+#EXTINF:-1 tvg-id="12963" tvg-name="CA FR: ES1 CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11378.jpg?33771" group-title="CA| GENERAL FR",CA FR: ES1 CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412888&extension=ts&play_token=6VuawH9GDD
+#EXTINF:-1 tvg-id="12964" tvg-name="CA FR: EURONEWS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6301.jpg?62514" group-title="CA| GENERAL FR",CA FR: EURONEWS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412887&extension=ts&play_token=a8iJrbDQ6g
+#EXTINF:-1 tvg-id="12965" tvg-name="CA FR: EWTN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11093.jpg?10648" group-title="CA| GENERAL FR",CA FR: EWTN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412818&extension=ts&play_token=caqLGE6QaV
+#EXTINF:-1 tvg-id="12966" tvg-name="CA FR: FRANCE 24" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/328.jpg?324" group-title="CA| GENERAL FR",CA FR: FRANCE 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412885&extension=ts&play_token=Y0oKltj0Tf
+#EXTINF:-1 tvg-id="12967" tvg-name="CA FR: ICI EXPLORA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11448.jpg?90843" group-title="CA| GENERAL FR",CA FR: ICI EXPLORA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412867&extension=ts&play_token=gePdqdbTSY
+#EXTINF:-1 tvg-id="12968" tvg-name="CA FR: ICI RDI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?81827" group-title="CA| GENERAL FR",CA FR: ICI RDI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412895&extension=ts&play_token=IGOMWLJ9Me
+#EXTINF:-1 tvg-id="12969" tvg-name="CA FR: ICI TELE 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?25708" group-title="CA| GENERAL FR",CA FR: ICI TELE 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412822&extension=ts&play_token=ICJTCDjyQO
+#EXTINF:-1 tvg-id="12970" tvg-name="CA FR: ICI TELE ESTRIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE ESTRIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412829&extension=ts&play_token=pVLLd5pE7l
+#EXTINF:-1 tvg-id="12971" tvg-name="CA FR: ICI TELE MAURICIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE MAURICIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412827&extension=ts&play_token=7KXwbuTJpP
+#EXTINF:-1 tvg-id="12972" tvg-name="CA FR: ICI TELE OTTAWA-GATINEAU HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE OTTAWA-GATINEAU HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412825&extension=ts&play_token=6KcLkxXpZx
+#EXTINF:-1 tvg-id="12973" tvg-name="CA FR: ICI TELE SAGUENAY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE SAGUENAY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412824&extension=ts&play_token=X8TzgImbPl
+#EXTINF:-1 tvg-id="12974" tvg-name="CA FR: ICI TELEVISION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?75086" group-title="CA| GENERAL FR",CA FR: ICI TELEVISION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412854&extension=ts&play_token=GeaFjOW3N7
+#EXTINF:-1 tvg-id="12975" tvg-name="CA FR: KTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6281.jpg?17661" group-title="CA| GENERAL FR",CA FR: KTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412808&extension=ts&play_token=08Brg1ZsMo
+#EXTINF:-1 tvg-id="12976" tvg-name="CA FR: ICI VANCOUVER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?54649" group-title="CA| GENERAL FR",CA FR: ICI VANCOUVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412941&extension=ts&play_token=eY8CYAWNqn
+#EXTINF:-1 tvg-id="12977" tvg-name="CA FR: LCN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1867.jpg?33622" group-title="CA| GENERAL FR",CA FR: LCN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412940&extension=ts&play_token=Phfo4uaCbH
+#EXTINF:-1 tvg-id="12978" tvg-name="CA FR: LCN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1867.jpg?3605" group-title="CA| GENERAL FR",CA FR: LCN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412866&extension=ts&play_token=KAbjMxON4R
+#EXTINF:-1 tvg-id="12979" tvg-name="CA FR: LE CANAL DE L ASSEMBLEE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8240.jpg?83055" group-title="CA| GENERAL FR",CA FR: LE CANAL DE L ASSEMBLEE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412816&extension=ts&play_token=QfBN2ba3Sd
+#EXTINF:-1 tvg-id="12980" tvg-name="CA FR: LEGISLATIVE ASSEMBLY OF ONTARIO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8240.jpg?83055" group-title="CA| GENERAL FR",CA FR: LEGISLATIVE ASSEMBLY OF ONTARIO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412817&extension=ts&play_token=kJWcRGfXhf
+#EXTINF:-1 tvg-id="12981" tvg-name="CA FR: METEO MEDIA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7738.jpg?15238" group-title="CA| GENERAL FR",CA FR: METEO MEDIA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412938&extension=ts&play_token=k8VcLKhKxR
+#EXTINF:-1 tvg-id="12982" tvg-name="CA FR: MOI&CIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11207.jpg?45385" group-title="CA| GENERAL FR",CA FR: MOI&CIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412896&extension=ts&play_token=p5wBaH240D
+#EXTINF:-1 tvg-id="12983" tvg-name="CA FR: MUSIQUE PLUS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2264.jpg?94608" group-title="CA| GENERAL FR",CA FR: MUSIQUE PLUS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412935&extension=ts&play_token=gB0sFWuIFk
+#EXTINF:-1 tvg-id="12984" tvg-name="CA FR: NOOVO V-TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9358.jpg?78453" group-title="CA| GENERAL FR",CA FR: NOOVO V-TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412858&extension=ts&play_token=8SA9wH6wBm
+#EXTINF:-1 tvg-id="12985" tvg-name="CA FR: PRISE 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1895.jpg?68825" group-title="CA| GENERAL FR",CA FR: PRISE 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412934&extension=ts&play_token=q4N98XyU3h
+#EXTINF:-1 tvg-id="12986" tvg-name="CA FR: PRISE2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1895.jpg?90609" group-title="CA| GENERAL FR",CA FR: PRISE2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412901&extension=ts&play_token=6nB8HOXsAW
+#EXTINF:-1 tvg-id="12987" tvg-name="CA FR: RDI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?5735" group-title="CA| GENERAL FR",CA FR: RDI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412933&extension=ts&play_token=WGZV1uTbI1
+#EXTINF:-1 tvg-id="12988" tvg-name="CA FR: RDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?5735" group-title="CA| GENERAL FR",CA FR: RDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412932&extension=ts&play_token=htZLnPSB4h
+#EXTINF:-1 tvg-id="12989" tvg-name="CA FR: RDS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12359.jpg?63846" group-title="CA| GENERAL FR",CA FR: RDS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412899&extension=ts&play_token=sJSAVLfIAS
+#EXTINF:-1 tvg-id="12990" tvg-name="CA FR: RDS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12359.jpg?63846" group-title="CA| GENERAL FR",CA FR: RDS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=1976911&extension=ts&play_token=1QrIsZyv8u
+#EXTINF:-1 tvg-id="12991" tvg-name="CA FR: RDS 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?5735" group-title="CA| GENERAL FR",CA FR: RDS 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412931&extension=ts&play_token=ZS5wT4xjzv
+#EXTINF:-1 tvg-id="12992" tvg-name="CA FR: RDS INFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11431.jpg?98468" group-title="CA| GENERAL FR",CA FR: RDS INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412930&extension=ts&play_token=O4iXoIlj0i
+#EXTINF:-1 tvg-id="12993" tvg-name="CA FR: RDS2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?96429" group-title="CA| GENERAL FR",CA FR: RDS2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412898&extension=ts&play_token=QjonpXfiwr
+#EXTINF:-1 tvg-id="12994" tvg-name="CA FR: ROGERS TV LONDON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2271.jpg?37287" group-title="CA| GENERAL FR",CA FR: ROGERS TV LONDON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412845&extension=ts&play_token=XyeKBUFDQv
+#EXTINF:-1 tvg-id="12995" tvg-name="CA FR: SAVOIR MEDIA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10036.jpg?84102" group-title="CA| GENERAL FR",CA FR: SAVOIR MEDIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412853&extension=ts&play_token=xzrtV5Su8C
+#EXTINF:-1 tvg-id="12996" tvg-name="CA FR: STUDIO CANAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9682.jpg?6137" group-title="CA| GENERAL FR",CA FR: STUDIO CANAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412893&extension=ts&play_token=E5f2eM5GyA
+#EXTINF:-1 tvg-id="12997" tvg-name="CA FR: SYFY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?25551" group-title="CA| GENERAL FR",CA FR: SYFY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412806&extension=ts&play_token=zlZWKn6Zth
+#EXTINF:-1 tvg-id="12998" tvg-name="CA FR: TELE QUEBEC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3076.png?21120" group-title="CA| GENERAL FR",CA FR: TELE QUEBEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412925&extension=ts&play_token=u37RsXpWJ7
+#EXTINF:-1 tvg-id="12999" tvg-name="CA FR: SUPER ECRAN 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12528.jpg?2833" group-title="CA| GENERAL FR",CA FR: SUPER ECRAN 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412880&extension=ts&play_token=imN7JG8SZ3
+#EXTINF:-1 tvg-id="13000" tvg-name="CA FR: TV 5 QUÉBEC  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7843.jpg?55426" group-title="CA| GENERAL FR",CA FR: TV 5 QUÉBEC  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412878&extension=ts&play_token=nlQBjue1OO
+#EXTINF:-1 tvg-id="13001" tvg-name="CA FR: TFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8341.jpg?56703" group-title="CA| GENERAL FR",CA FR: TFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412874&extension=ts&play_token=PeNXeFRlU3
+#EXTINF:-1 tvg-id="13002" tvg-name="CA FR: TV ROGERS OTTAWA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2271.jpg?37287" group-title="CA| GENERAL FR",CA FR: TV ROGERS OTTAWA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412846&extension=ts&play_token=pU10i0NVrU
+#EXTINF:-1 tvg-id="13003" tvg-name="CA FR: TV5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7843.jpg?91992" group-title="CA| GENERAL FR",CA FR: TV5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412855&extension=ts&play_token=ViF3TJjc2U
+#EXTINF:-1 tvg-id="13004" tvg-name="CA FR: TV5 MONDE INFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/93.jpg?54964" group-title="CA| GENERAL FR",CA FR: TV5 MONDE INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412821&extension=ts&play_token=bIeTM8LCAj
+#EXTINF:-1 tvg-id="13005" tvg-name="CA FR: TV5 MONDE STYLE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/106.jpg?54362" group-title="CA| GENERAL FR",CA FR: TV5 MONDE STYLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412820&extension=ts&play_token=v8027SmzAC
+#EXTINF:-1 tvg-id="13006" tvg-name="CA FR: UNIS TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1944.png?40378" group-title="CA| GENERAL FR",CA FR: UNIS TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412906&extension=ts&play_token=2fQE8vBFlQ
+#EXTINF:-1 tvg-id="13007" tvg-name="CA FR: V  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7759.jpg?87763" group-title="CA| GENERAL FR",CA FR: V  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412905&extension=ts&play_token=GItyzIq4kM
+#EXTINF:-1 tvg-id="13008" tvg-name="CA FR: V MONTREAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7788.jpg?89652" group-title="CA| GENERAL FR",CA FR: V MONTREAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412904&extension=ts&play_token=2pYb2teUhl
+#EXTINF:-1 tvg-id="13009" tvg-name="CA FR: V QUEBEC CITY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7648.jpg?41975" group-title="CA| GENERAL FR",CA FR: V QUEBEC CITY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412876&extension=ts&play_token=vnjGahX24N
+#EXTINF:-1 tvg-id="13010" tvg-name="CA FR: V SHERBROOKE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7722.png?55092" group-title="CA| GENERAL FR",CA FR: V SHERBROOKE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412903&extension=ts&play_token=dQl7I3UhXR
+#EXTINF:-1 tvg-id="13011" tvg-name="CA FR: RDS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7746.jpg?12649" group-title="CA| GENERAL FR",CA FR: RDS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412916&extension=ts&play_token=UNGbeTbBM4
+#EXTINF:-1 tvg-id="13012" tvg-name="CA FR: VU! TELE A LA CARTE 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12480.jpg?25918" group-title="CA| GENERAL FR",CA FR: VU! TELE A LA CARTE 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412860&extension=ts&play_token=H9LIuUveJP
+#EXTINF:-1 tvg-id="13013" tvg-name="CA FR: VU! TELE A LA CARTE 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12480.jpg?25918" group-title="CA| GENERAL FR",CA FR: VU! TELE A LA CARTE 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412859&extension=ts&play_token=fOvEEe4Kir
+#EXTINF:-1 tvg-id="13014" tvg-name="CA FR: YOOPA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8373.jpg?65884" group-title="CA| GENERAL FR",CA FR: YOOPA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412873&extension=ts&play_token=P9QI6cKDkh
+#EXTINF:-1 tvg-id="13015" tvg-name="CA FR: ZESTE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9797.jpg?50311" group-title="CA| GENERAL FR",CA FR: ZESTE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412865&extension=ts&play_token=ytDkyPyYHu
+#EXTINF:-1 tvg-id="13016" tvg-name="CA FR: Z TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2325.png?84562" group-title="CA| GENERAL FR",CA FR: Z TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412915&extension=ts&play_token=vr0gpjSI0f
+#EXTINF:-1 tvg-id="13017" tvg-name="######## CINEMA FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| CINEMA FR",######## CINEMA FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=413884&extension=ts&play_token=p1D1v2nX5c
+#EXTINF:-1 tvg-id="13018" tvg-name="CA FR: ADDIK TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1019.jpg?81973" group-title="CA| CINEMA FR",CA FR: ADDIK TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412954&extension=ts&play_token=dktpGrrKnW
+#EXTINF:-1 tvg-id="13019" tvg-name="CA FR: BET" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?44253" group-title="CA| CINEMA FR",CA FR: BET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412812&extension=ts&play_token=zQX8thYuVZ
+#EXTINF:-1 tvg-id="13020" tvg-name="CA FR: CANAL Z HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10034.jpg?39811" group-title="CA| CINEMA FR",CA FR: CANAL Z HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412857&extension=ts&play_token=G3JDBGH8eQ
+#EXTINF:-1 tvg-id="13021" tvg-name="CA FR: CINEPOP HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3866.jpg?53472" group-title="CA| CINEMA FR",CA FR: CINEPOP HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412890&extension=ts&play_token=r7mRQYr5zB
+#EXTINF:-1 tvg-id="13022" tvg-name="CA FR: ELLE FICTIONS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3320.jpg?85018" group-title="CA| CINEMA FR",CA FR: ELLE FICTIONS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412889&extension=ts&play_token=u92Y22S62o
+#EXTINF:-1 tvg-id="13023" tvg-name="CA FR: ENGLISH CLUB TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6338.jpg?67730" group-title="CA| CINEMA FR",CA FR: ENGLISH CLUB TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412809&extension=ts&play_token=5c7LkJW2vt
+#EXTINF:-1 tvg-id="13024" tvg-name="CA FR: EVASION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8475.jpg?32288" group-title="CA| CINEMA FR",CA FR: EVASION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412886&extension=ts&play_token=pJ03A3MRd9
+#EXTINF:-1 tvg-id="13025" tvg-name="CA FR: FRISSON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8313.jpg?90679" group-title="CA| CINEMA FR",CA FR: FRISSON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412944&extension=ts&play_token=6jo2iL9V6U
+#EXTINF:-1 tvg-id="13026" tvg-name="CA FR: ICI MONTREAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?57702" group-title="CA| CINEMA FR",CA FR: ICI MONTREAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412942&extension=ts&play_token=mLBwqZ3lZL
+#EXTINF:-1 tvg-id="13027" tvg-name="CA FR: MAX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/817.jpg?994" group-title="CA| CINEMA FR",CA FR: MAX HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412939&extension=ts&play_token=qvY6UbmsGY
+#EXTINF:-1 tvg-id="13028" tvg-name="CA FR: SERIES+ HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2326.jpg?88930" group-title="CA| CINEMA FR",CA FR: SERIES+ HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412897&extension=ts&play_token=VGZwV71wNA
+#EXTINF:-1 tvg-id="13029" tvg-name="CA FR: SUPER ECRAN 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?15817" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412928&extension=ts&play_token=H4tJPnKAcn
+#EXTINF:-1 tvg-id="13030" tvg-name="CA FR: SUPER ECRAN 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?75244" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412883&extension=ts&play_token=pRpTKrCgLv
+#EXTINF:-1 tvg-id="13031" tvg-name="CA FR: SUPER ECRAN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?15817" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412927&extension=ts&play_token=qxD0uKVM0l
+#EXTINF:-1 tvg-id="13032" tvg-name="CA FR: SUPER ECRAN 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?75244" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412882&extension=ts&play_token=Zhm8FwtgSi
+#EXTINF:-1 tvg-id="13033" tvg-name="CA FR: SUPER ECRAN 3" tvg-logo="http://picons.cmshulk.com/picons/logos/superecran.png" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=498662&extension=ts&play_token=4QSU1Kd41r
+#EXTINF:-1 tvg-id="13034" tvg-name="CA FR: SUPER ECRAN 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?15817" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412926&extension=ts&play_token=hw9WFvMtiH
+#EXTINF:-1 tvg-id="13035" tvg-name="CA FR: SUPER ECRAN 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?75244" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412881&extension=ts&play_token=JzJ3oVM8wW
+#EXTINF:-1 tvg-id="13036" tvg-name="CA FR: TVA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412910&extension=ts&play_token=Rw4Ez1qAH7
+#EXTINF:-1 tvg-id="13037" tvg-name="CA FR: TVA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412909&extension=ts&play_token=Bf3qQmVdcG
+#EXTINF:-1 tvg-id="13038" tvg-name="CA FR: TVA MONTREAL WEST  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA MONTREAL WEST  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412921&extension=ts&play_token=mUSNctlb89
+#EXTINF:-1 tvg-id="13039" tvg-name="CA FR: TVA QUEBEC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA QUEBEC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412919&extension=ts&play_token=ywAlm6NRhb
+#EXTINF:-1 tvg-id="13040" tvg-name="######## KIDS FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| KIDS FR",######## KIDS FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=413882&extension=ts&play_token=5IqKZy4vDp
+#EXTINF:-1 tvg-id="13041" tvg-name="CA FR: BABY TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/631.jpg?86017" group-title="CA| KIDS FR",CA FR: BABY TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412852&extension=ts&play_token=wy1fIK9vyZ
+#EXTINF:-1 tvg-id="13042" tvg-name="CA FR: DISNEY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657" group-title="CA| KIDS FR",CA FR: DISNEY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412945&extension=ts&play_token=AhEi3DHYeG
+#EXTINF:-1 tvg-id="13043" tvg-name="CA FR: ICI TELE ACADIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?45292" group-title="CA| KIDS FR",CA FR: ICI TELE ACADIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412833&extension=ts&play_token=bV3eVXJ15o
+#EXTINF:-1 tvg-id="13044" tvg-name="CA FR: ICI TELE ALBERTA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437" group-title="CA| KIDS FR",CA FR: ICI TELE ALBERTA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412832&extension=ts&play_token=1IkTJfGz9t
+#EXTINF:-1 tvg-id="13045" tvg-name="CA FR: ICI TELE CB-YUKON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437" group-title="CA| KIDS FR",CA FR: ICI TELE CB-YUKON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412831&extension=ts&play_token=t6BybF3Jyt
+#EXTINF:-1 tvg-id="13046" tvg-name="CA FR: ICI TELE EST-QUEBEC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6592.jpg?7730" group-title="CA| KIDS FR",CA FR: ICI TELE EST-QUEBEC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412830&extension=ts&play_token=buQvA8Dpgq
+#EXTINF:-1 tvg-id="13047" tvg-name="CA FR: ICI TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?33300" group-title="CA| KIDS FR",CA FR: ICI TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412894&extension=ts&play_token=WfZkcGxRXT
+#EXTINF:-1 tvg-id="13048" tvg-name="CA FR: ICI TELE MANITOBA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?48010" group-title="CA| KIDS FR",CA FR: ICI TELE MANITOBA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412828&extension=ts&play_token=wZIrB7lOUe
+#EXTINF:-1 tvg-id="13049" tvg-name="CA FR: ICI TELE SASKATCHEWAN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?31812" group-title="CA| KIDS FR",CA FR: ICI TELE SASKATCHEWAN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412823&extension=ts&play_token=cWFP0yh44k
+#EXTINF:-1 tvg-id="13050" tvg-name="CA FR: LA CHAINE DISNEY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?49058" group-title="CA| KIDS FR",CA FR: LA CHAINE DISNEY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412871&extension=ts&play_token=OlWZsVJ6Vn
+#EXTINF:-1 tvg-id="13051" tvg-name="CA FR: LA CHAINE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657" group-title="CA| KIDS FR",CA FR: LA CHAINE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412946&extension=ts&play_token=yC9qrRV61n
+#EXTINF:-1 tvg-id="13052" tvg-name="CA FR: LUDIKIDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9848.jpg?73817" group-title="CA| KIDS FR",CA FR: LUDIKIDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412807&extension=ts&play_token=UIOUtsDCsF
+#EXTINF:-1 tvg-id="13053" tvg-name="CA FR: TELEMAGINO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?63391" group-title="CA| KIDS FR",CA FR: TELEMAGINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412924&extension=ts&play_token=LJaMNaPB9P
+#EXTINF:-1 tvg-id="13054" tvg-name="CA FR: TELEMAGINO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?25353" group-title="CA| KIDS FR",CA FR: TELEMAGINO HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412912&extension=ts&play_token=yQCXjpecVY
+#EXTINF:-1 tvg-id="13055" tvg-name="CA FR: TELETOON" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?22052" group-title="CA| KIDS FR",CA FR: TELETOON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412805&extension=ts&play_token=9GkGbXjFwF
+#EXTINF:-1 tvg-id="13056" tvg-name="CA FR: TELETOON FRENCH HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?90842" group-title="CA| KIDS FR",CA FR: TELETOON FRENCH HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412911&extension=ts&play_token=FbBTSeiXBY
+#EXTINF:-1 tvg-id="13057" tvg-name="CA FR: TELETOON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?91314" group-title="CA| KIDS FR",CA FR: TELETOON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412923&extension=ts&play_token=ymojaOX3zH
+#EXTINF:-1 tvg-id="13058" tvg-name="CA FR: TIVI 5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/846.jpg?93491" group-title="CA| KIDS FR",CA FR: TIVI 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412819&extension=ts&play_token=YDRd57O1Nf
+#EXTINF:-1 tvg-id="13059" tvg-name="######## SPORTS FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| SPORTS FR",######## SPORTS FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=413883&extension=ts&play_token=l4veAiNfh8
+#EXTINF:-1 tvg-id="13060" tvg-name="CA FR: MOI SPORT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4724.jpg?89823" group-title="CA| SPORTS FR",CA FR: MOI SPORT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412936&extension=ts&play_token=u3ntA1KFs8
+#EXTINF:-1 tvg-id="13061" tvg-name="CA FR: TSN/RDS EXTRA 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412847&extension=ts&play_token=uj44CJ18uA
+#EXTINF:-1 tvg-id="13062" tvg-name="CA FR: TSN/RDS EXTRA 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412848&extension=ts&play_token=ONsNXEbeoZ
+#EXTINF:-1 tvg-id="13063" tvg-name="CA FR: TSN/RDS EXTRA 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412849&extension=ts&play_token=fNIcXGzwxY
+#EXTINF:-1 tvg-id="13064" tvg-name="CA FR: TSN/RDS EXTRA 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412850&extension=ts&play_token=omXXphnkwS
+#EXTINF:-1 tvg-id="13065" tvg-name="CA FR: TSN/RDS EXTRA 5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412851&extension=ts&play_token=G2HYl9TBc4
+#EXTINF:-1 tvg-id="13066" tvg-name="CA FR: TVA SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6010.jpg?38066" group-title="CA| SPORTS FR",CA FR: TVA SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412908&extension=ts&play_token=vmMPHJ3QJs
+#EXTINF:-1 tvg-id="13067" tvg-name="CA FR: TVA SPORTS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12739.jpg?26322" group-title="CA| SPORTS FR",CA FR: TVA SPORTS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412907&extension=ts&play_token=UiH51ERCRo
+#EXTINF:-1 tvg-id="13068" tvg-name="######## MUSIC FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| MUSIC FR",######## MUSIC FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=413881&extension=ts&play_token=SslSrNO02K
+#EXTINF:-1 tvg-id="13069" tvg-name="CA FR: ARTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11265.jpg?56274" group-title="CA| MUSIC FR",CA FR: ARTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412953&extension=ts&play_token=M0rO8iFwrm
+#EXTINF:-1 tvg-id="13070" tvg-name="CA FR: ICI ARTV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11265.jpg?56274" group-title="CA| MUSIC FR",CA FR: ICI ARTV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412868&extension=ts&play_token=4b0Gb7jV6K
+#EXTINF:-1 tvg-id="13071" tvg-name="CA FR: MEZZO LIVE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11323.jpg?96218" group-title="CA| MUSIC FR",CA FR: MEZZO LIVE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412856&extension=ts&play_token=iYvL8mqTRb
+#EXTINF:-1 tvg-id="13072" tvg-name="CA FR: MUSIC PLUS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9388.jpg?17398" group-title="CA| MUSIC FR",CA FR: MUSIC PLUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412815&extension=ts&play_token=FrehmtQdYI
+#EXTINF:-1 tvg-id="13073" tvg-name="CA FR: STINGRAY CLASSICA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3184.jpg?62030" group-title="CA| MUSIC FR",CA FR: STINGRAY CLASSICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412810&extension=ts&play_token=566bjTQgZm
+#EXTINF:-1 tvg-id="13074" tvg-name="CA FR: STINGRAY HITS! HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9899.jpg?40533" group-title="CA| MUSIC FR",CA FR: STINGRAY HITS! HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412811&extension=ts&play_token=1QYDWrwcqn
+#EXTINF:-1 tvg-id="13075" tvg-name="CA FR: TRACE  URBAN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4757.jpg?85209" group-title="CA| MUSIC FR",CA FR: TRACE  URBAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412843&extension=ts&play_token=7yefzonVJZ
+#EXTINF:-1 tvg-id="13076" tvg-name="CA FR: TRACE AFRICA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8337.jpg?26726" group-title="CA| MUSIC FR",CA FR: TRACE AFRICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412844&extension=ts&play_token=NhFTu2RDBT
+#EXTINF:-1 tvg-id="13077" tvg-name="CA FR: TRACE NAIJA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8328.jpg?12011" group-title="CA| MUSIC FR",CA FR: TRACE NAIJA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412842&extension=ts&play_token=9A3zjVuj5G
+#EXTINF:-1 tvg-id="13078" tvg-name="CA FR: TRACE TOCA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11277.png?ver=59308" group-title="CA| MUSIC FR",CA FR: TRACE TOCA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412841&extension=ts&play_token=QXxpicc7u6
+#EXTINF:-1 tvg-id="13079" tvg-name="CA FR: TRACE URBAN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4757.jpg?44745" group-title="CA| MUSIC FR",CA FR: TRACE URBAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412840&extension=ts&play_token=BJYqr5Pm0g
+#EXTINF:-1 tvg-id="13080" tvg-name="######## DOCUMENTARY FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| DOCUMENTARY FR",######## DOCUMENTARY FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=413880&extension=ts&play_token=g1dIlPW4vO
+#EXTINF:-1 tvg-id="13081" tvg-name="CA FR: AHC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11097.jpg?61256" group-title="CA| DOCUMENTARY FR",CA FR: AHC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412814&extension=ts&play_token=3K0Ua62VwR
+#EXTINF:-1 tvg-id="13082" tvg-name="CA FR: AMI TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3003.jpg?50634" group-title="CA| DOCUMENTARY FR",CA FR: AMI TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412937&extension=ts&play_token=twjd1vCy6p
+#EXTINF:-1 tvg-id="13083" tvg-name="CA FR: APTN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5992.jpg?37074" group-title="CA| DOCUMENTARY FR",CA FR: APTN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412813&extension=ts&play_token=y2jOacGx9N
+#EXTINF:-1 tvg-id="13084" tvg-name="CA FR: CANAL V" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10031.jpg?76379" group-title="CA| DOCUMENTARY FR",CA FR: CANAL V
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412875&extension=ts&play_token=1hG8zHGkk6
+#EXTINF:-1 tvg-id="13085" tvg-name="CA FR: CASA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2376.jpg?16209" group-title="CA| DOCUMENTARY FR",CA FR: CASA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412949&extension=ts&play_token=Hpwev3S34V
+#EXTINF:-1 tvg-id="13086" tvg-name="CA FR: CASA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2376.jpg?16209" group-title="CA| DOCUMENTARY FR",CA FR: CASA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412892&extension=ts&play_token=IXabr5MfQq
+#EXTINF:-1 tvg-id="13087" tvg-name="CA FR: HISTORIA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11257.jpg?24778" group-title="CA| DOCUMENTARY FR",CA FR: HISTORIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412943&extension=ts&play_token=Xjjck5VJ9H
+#EXTINF:-1 tvg-id="13088" tvg-name="CA FR: HISTORIA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11257.jpg?86555" group-title="CA| DOCUMENTARY FR",CA FR: HISTORIA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412863&extension=ts&play_token=ET8RSmbzDS
+#EXTINF:-1 tvg-id="13089" tvg-name="CA FR: ICI RADIO CANADA TELE MONCTON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO CANADA TELE MONCTON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412836&extension=ts&play_token=jRxU9GBfZH
+#EXTINF:-1 tvg-id="13090" tvg-name="CA FR: ICI RADIO CANADA TELE VANCOUVER HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO CANADA TELE VANCOUVER HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412835&extension=ts&play_token=ZCwADyHvxB
+#EXTINF:-1 tvg-id="13091" tvg-name="CA FR: ICI RADIO TELE TORONTO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO TELE TORONTO HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412838&extension=ts&play_token=PGb90vtpnT
+#EXTINF:-1 tvg-id="13092" tvg-name="CA FR: ICI RADIO-CANADA TELE TORONTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO-CANADA TELE TORONTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412839&extension=ts&play_token=sgwci69UUf
+#EXTINF:-1 tvg-id="13093" tvg-name="CA FR: ICI RADIO-CANADA TÉLÉ TORONTO  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO-CANADA TÉLÉ TORONTO  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412837&extension=ts&play_token=UTxOGLdCRG
+#EXTINF:-1 tvg-id="13094" tvg-name="CA FR: INVESTIGATION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3959.jpg?32" group-title="CA| DOCUMENTARY FR",CA FR: INVESTIGATION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:EE:73&stream=412872&extension=ts&play_token=ZIHjazJd49
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=1537522&extension=ts&play_token=6DAXEJe4ww
 #EXTINF:-1 tvg-id="9528" tvg-name="PRIME: DISCOVERY INVESTIGATION ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DISCOVERY INVESTIGATION ᴿᴬᵂ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=1537521&extension=ts&play_token=KBM0Qb7LcR
