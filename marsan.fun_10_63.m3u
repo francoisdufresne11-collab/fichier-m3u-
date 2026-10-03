@@ -5001,3 +5001,1014 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=293455&exten
 #EXTINF:-1 tvg-id="11869" tvg-name="AF: ZEE MAGIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12776.png?16355" group-title="FR| CANAL+ AFRICA",AF: ZEE MAGIC
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:BA:3B&stream=293242&extension=ts&play_token=KmIInEvQBM
 :  00:1A:79:F5:A2:6D
+
+#EXTINF:-1 tvg-id="31105" tvg-name="##### CANAL+ VIP HD/4K #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Animated-Flag-South-Africa.gif" group-title="AFR| CANAL+ VIP HD/4K",##### CANAL+ VIP HD/4K #####
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853468&extension=ts&play_token=eC0rz7IBpa
+#EXTINF:-1 tvg-id="31106" tvg-name="C+: 2STV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/2STV.png" group-title="AFR| CANAL+ VIP HD/4K",C+: 2STV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853388&extension=ts&play_token=5YzBuMl0CZ
+#EXTINF:-1 tvg-id="31107" tvg-name="C+: 3TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/3TV.png" group-title="AFR| CANAL+ VIP HD/4K",C+: 3TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853387&extension=ts&play_token=0Z1oe0ncTz
+#EXTINF:-1 tvg-id="31108" tvg-name="C+: 6TER" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/6TER.png" group-title="AFR| CANAL+ VIP HD/4K",C+: 6TER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853386&extension=ts&play_token=05vDdDBvdX
+#EXTINF:-1 tvg-id="31109" tvg-name="C+: A PLUS HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/APLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+: A PLUS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853385&extension=ts&play_token=5fqsTe229x
+#EXTINF:-1 tvg-id="31110" tvg-name="C+: A+ IVOIRE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/APLUSIVOIRE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: A+ IVOIRE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853452&extension=ts&play_token=614SZN6PPO
+#EXTINF:-1 tvg-id="31111" tvg-name="C+: AB1" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/AB1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: AB1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853382&extension=ts&play_token=Rof5anDs7u
+#EXTINF:-1 tvg-id="31112" tvg-name="C+: AFRICABLE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/AFRICABLE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: AFRICABLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853381&extension=ts&play_token=YWby7eyMsB
+#EXTINF:-1 tvg-id="31113" tvg-name="C+: AL MAURITANIYA HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ALMAURITANIYA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: AL MAURITANIYA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853383&extension=ts&play_token=rEDIs2uAXK
+#EXTINF:-1 tvg-id="31114" tvg-name="C+: ALBAYANE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ALBAYANE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: ALBAYANE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853384&extension=ts&play_token=FoCE9pkCAc
+#EXTINF:-1 tvg-id="31115" tvg-name="C+: ANIMAUX" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ANIMAUX.png" group-title="AFR| CANAL+ VIP HD/4K",C+: ANIMAUX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853380&extension=ts&play_token=qa2y8h4jRz
+#EXTINF:-1 tvg-id="31116" tvg-name="C+: B-ONE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/B-One.png" group-title="AFR| CANAL+ VIP HD/4K",C+: B-ONE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853379&extension=ts&play_token=yAoD72qS53
+#EXTINF:-1 tvg-id="31117" tvg-name="C+: BANTAMBA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/BANTAMBA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: BANTAMBA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853454&extension=ts&play_token=yNDKSjQEo8
+#EXTINF:-1 tvg-id="31118" tvg-name="C+: BET" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/BET.png" group-title="AFR| CANAL+ VIP HD/4K",C+: BET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853377&extension=ts&play_token=pDYGsFJQM9
+#EXTINF:-1 tvg-id="31119" tvg-name="C+: BLACK AFRICA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/BBLACKAFRICA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: BLACK AFRICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853378&extension=ts&play_token=qxytT17JYE
+#EXTINF:-1 tvg-id="31120" tvg-name="C+: BONFEREY" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/BONFEREY.png" group-title="AFR| CANAL+ VIP HD/4K",C+: BONFEREY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853437&extension=ts&play_token=51B2wCOCoA
+#EXTINF:-1 tvg-id="31121" tvg-name="C+: BTN RWANDA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/BTN.png" group-title="AFR| CANAL+ VIP HD/4K",C+: BTN RWANDA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853431&extension=ts&play_token=sqr8dM4V08
+#EXTINF:-1 tvg-id="31122" tvg-name="C+: BURKINA INFO TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/BURKINAINFO.png" group-title="AFR| CANAL+ VIP HD/4K",C+: BURKINA INFO TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853448&extension=ts&play_token=ZnK3PLsqiC
+#EXTINF:-1 tvg-id="31123" tvg-name="C+: C+ ACTION" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CPLUSACTION.png" group-title="AFR| CANAL+ VIP HD/4K",C+: C+ ACTION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853392&extension=ts&play_token=Yg97AaXW61
+#EXTINF:-1 tvg-id="31124" tvg-name="C+: C+ FRISSON" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CPLUSFRISSON.png" group-title="AFR| CANAL+ VIP HD/4K",C+: C+ FRISSON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853390&extension=ts&play_token=2W9vc0h4P0
+#EXTINF:-1 tvg-id="31125" tvg-name="C+: C+ PREMIER" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CPLUSPREMIER.png" group-title="AFR| CANAL+ VIP HD/4K",C+: C+ PREMIER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853391&extension=ts&play_token=F47KDq2kbq
+#EXTINF:-1 tvg-id="31126" tvg-name="C+: C+ PREMIERE OUEST" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CPLUSPREMIER.png" group-title="AFR| CANAL+ VIP HD/4K",C+: C+ PREMIERE OUEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853389&extension=ts&play_token=BJD9EptuC3
+#EXTINF:-1 tvg-id="31127" tvg-name="C+: CANAL 2 INTERNATIONAL" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANAL2INTERNATIONAL.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL 2 INTERNATIONAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853376&extension=ts&play_token=PdhdAireYp
+#EXTINF:-1 tvg-id="31128" tvg-name="C+: CANAL 3 BENIN" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANAL3BENIN.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL 3 BENIN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853442&extension=ts&play_token=BJ7mOwBYcd
+#EXTINF:-1 tvg-id="31129" tvg-name="C+: CANAL 3 BURKINABé" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANAL3BURKINABE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL 3 BURKINABé
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853447&extension=ts&play_token=Qh1Fsj1MMp
+#EXTINF:-1 tvg-id="31130" tvg-name="C+: CANAL SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALSPORT1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL SPORT 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853393&extension=ts&play_token=Xwi7LjVHjK
+#EXTINF:-1 tvg-id="31131" tvg-name="C+: CANAL+ ACTION OUEST" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSACTIONOUEST.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ ACTION OUEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853396&extension=ts&play_token=CFh0K2ttNA
+#EXTINF:-1 tvg-id="31132" tvg-name="C+: CANAL+ CINEMA OUEST" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSCINEMAOUEST.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ CINEMA OUEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853395&extension=ts&play_token=5BaMB0xWdC
+#EXTINF:-1 tvg-id="31133" tvg-name="C+: CANAL+ FAMILY OUEST" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSFAMILYOUEST.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ FAMILY OUEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853394&extension=ts&play_token=2fSlLL7ppz
+#EXTINF:-1 tvg-id="31134" tvg-name="C+: CANAL+ SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALSPORT1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ SPORT 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853401&extension=ts&play_token=Gz8E7rS1JD
+#EXTINF:-1 tvg-id="31135" tvg-name="C+: CANAL+ SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSSPORT2.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ SPORT 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853400&extension=ts&play_token=ktUuy12STS
+#EXTINF:-1 tvg-id="31136" tvg-name="C+: CANAL+ SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSSPORT3.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ SPORT 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853399&extension=ts&play_token=MPjQAH8tfv
+#EXTINF:-1 tvg-id="31137" tvg-name="C+: CANAL+ SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSSPORT4.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ SPORT 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853398&extension=ts&play_token=lwPuMgryxB
+#EXTINF:-1 tvg-id="31138" tvg-name="C+: CANAL+ SPORT 5" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSSPORT5.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CANAL+ SPORT 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853397&extension=ts&play_token=Dgk0QMlYfN
+#EXTINF:-1 tvg-id="31139" tvg-name="C+: CRTV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CRTV.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CRTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853374&extension=ts&play_token=6NfpugDzlj
+#EXTINF:-1 tvg-id="31140" tvg-name="C+: CNEWS" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TVCNEWS.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CNEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853375&extension=ts&play_token=2kZ14n2YnD
+#EXTINF:-1 tvg-id="31141" tvg-name="C+: CRTV SPORT" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CRTVSports.png" group-title="AFR| CANAL+ VIP HD/4K",C+: CRTV SPORT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853434&extension=ts&play_token=Xe4Jvh5QZM
+#EXTINF:-1 tvg-id="31142" tvg-name="C+: DIGITAL CONGO" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/DigitalCongo.png" group-title="AFR| CANAL+ VIP HD/4K",C+: DIGITAL CONGO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853425&extension=ts&play_token=Sbv887KtbH
+#EXTINF:-1 tvg-id="31143" tvg-name="C+: DOUNIA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/DOUNIA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: DOUNIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853438&extension=ts&play_token=0cV95lOf20
+#EXTINF:-1 tvg-id="31144" tvg-name="C+: ELECTRON TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ELECTRON.png" group-title="AFR| CANAL+ VIP HD/4K",C+: ELECTRON TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853436&extension=ts&play_token=0mA7S5D0Kf
+#EXTINF:-1 tvg-id="31145" tvg-name="C+: EQUINOXE TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/EQUINOXE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: EQUINOXE TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853373&extension=ts&play_token=ZKlxxftCnH
+#EXTINF:-1 tvg-id="31146" tvg-name="C+: ERISAT" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ERISAT.png" group-title="AFR| CANAL+ VIP HD/4K",C+: ERISAT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853362&extension=ts&play_token=UkMQIqcs08
+#EXTINF:-1 tvg-id="31147" tvg-name="C+: ES1" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ES1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: ES1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853372&extension=ts&play_token=Ln9CuKQYsJ
+#EXTINF:-1 tvg-id="31148" tvg-name="C+: eTELE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/eTELE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: eTELE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853440&extension=ts&play_token=9voHsUu9WU
+#EXTINF:-1 tvg-id="31149" tvg-name="C+: EVASION TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/EVASION.png" group-title="AFR| CANAL+ VIP HD/4K",C+: EVASION TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853371&extension=ts&play_token=Cpdmn1tSoH
+#EXTINF:-1 tvg-id="31150" tvg-name="C+: FRANCE 2" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/FRANCE2.png" group-title="AFR| CANAL+ VIP HD/4K",C+: FRANCE 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853370&extension=ts&play_token=TCxzYjHSan
+#EXTINF:-1 tvg-id="31151" tvg-name="C+: GABON CULTURE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/GABONCULTURE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: GABON CULTURE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853427&extension=ts&play_token=qDaTo05rKS
+#EXTINF:-1 tvg-id="31152" tvg-name="C+: GABON TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/GABON.png" group-title="AFR| CANAL+ VIP HD/4K",C+: GABON TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853368&extension=ts&play_token=ANLYRAK3Ny
+#EXTINF:-1 tvg-id="31153" tvg-name="C+: GOSPEL TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/GOSPEL.png" group-title="AFR| CANAL+ VIP HD/4K",C+: GOSPEL TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853369&extension=ts&play_token=8eQjSD6dLQ
+#EXTINF:-1 tvg-id="31154" tvg-name="C+: IQRAA EUROPE AFRIQUE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/IQRAAEUROPEAFRIQUE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: IQRAA EUROPE AFRIQUE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853451&extension=ts&play_token=P5PAA5yeaE
+#EXTINF:-1 tvg-id="31155" tvg-name="C+: IVOIRE CHANNEL TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/IVOIRECHANNEL.png" group-title="AFR| CANAL+ VIP HD/4K",C+: IVOIRE CHANNEL TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853450&extension=ts&play_token=0iUcEVVSGw
+#EXTINF:-1 tvg-id="31156" tvg-name="C+: KALAC" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/KALAC.png" group-title="AFR| CANAL+ VIP HD/4K",C+: KALAC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853367&extension=ts&play_token=0ADMVB1nFV
+#EXTINF:-1 tvg-id="31157" tvg-name="C+: KC 2 TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/KC2.png" group-title="AFR| CANAL+ VIP HD/4K",C+: KC 2 TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853433&extension=ts&play_token=ZIPyGnKwXc
+#EXTINF:-1 tvg-id="31158" tvg-name="C+: LCI" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/LCI.png" group-title="AFR| CANAL+ VIP HD/4K",C+: LCI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853366&extension=ts&play_token=OE9QYw45iT
+#EXTINF:-1 tvg-id="31159" tvg-name="C+: LUX TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/LUX.png" group-title="AFR| CANAL+ VIP HD/4K",C+: LUX TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853426&extension=ts&play_token=s9VmomX6A7
+#EXTINF:-1 tvg-id="31160" tvg-name="C+: M6 INTERNATIONAL" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/M6INTERNATIONAL.png" group-title="AFR| CANAL+ VIP HD/4K",C+: M6 INTERNATIONAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853361&extension=ts&play_token=UcO2XpYVYL
+#EXTINF:-1 tvg-id="31161" tvg-name="C+: MANDE TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/MANDE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: MANDE TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853449&extension=ts&play_token=4lUCQw8Fhw
+#EXTINF:-1 tvg-id="31162" tvg-name="C+: MANGAS" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/MANGAS.png" group-title="AFR| CANAL+ VIP HD/4K",C+: MANGAS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853360&extension=ts&play_token=pk7hC4b3vc
+#EXTINF:-1 tvg-id="31163" tvg-name="C+: MISHAPI" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/MISHAPI.png" group-title="AFR| CANAL+ VIP HD/4K",C+: MISHAPI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853406&extension=ts&play_token=gPPZz7aMP6
+#EXTINF:-1 tvg-id="31164" tvg-name="C+: MOLIERE TV CONGO" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/MOLIERE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: MOLIERE TV CONGO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853407&extension=ts&play_token=Wp1Bzd4Bfr
+#EXTINF:-1 tvg-id="31165" tvg-name="C+: MTV FRANCE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/MTV.png" group-title="AFR| CANAL+ VIP HD/4K",C+: MTV FRANCE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853359&extension=ts&play_token=SCNJeyQHHV
+#EXTINF:-1 tvg-id="31166" tvg-name="C+: NATHAN TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/NATHAN.png" group-title="AFR| CANAL+ VIP HD/4K",C+: NATHAN TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853358&extension=ts&play_token=ETiahce5Wj
+#EXTINF:-1 tvg-id="31167" tvg-name="C+: NCI" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/NCI.png" group-title="AFR| CANAL+ VIP HD/4K",C+: NCI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853365&extension=ts&play_token=LlKnZt9IDD
+#EXTINF:-1 tvg-id="31168" tvg-name="C+: NICKELODEON" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/NICKELODEON.png" group-title="AFR| CANAL+ VIP HD/4K",C+: NICKELODEON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853356&extension=ts&play_token=vqAUTKdb1w
+#EXTINF:-1 tvg-id="31169" tvg-name="C+: NOLLYWOOD HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/NOLLYWOOD.png" group-title="AFR| CANAL+ VIP HD/4K",C+: NOLLYWOOD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853364&extension=ts&play_token=AAdYdZwISq
+#EXTINF:-1 tvg-id="31170" tvg-name="C+: NOVELAS TV CPAFR" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/NOVELAS.png" group-title="AFR| CANAL+ VIP HD/4K",C+: NOVELAS TV CPAFR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853357&extension=ts&play_token=nodnzuu1uP
+#EXTINF:-1 tvg-id="31171" tvg-name="C+: NOVELAS TV HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/NOVELAS.png" group-title="AFR| CANAL+ VIP HD/4K",C+: NOVELAS TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853363&extension=ts&play_token=Cx2lSB4ybn
+#EXTINF:-1 tvg-id="31172" tvg-name="C+: NYOTA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/NYOTA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: NYOTA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853405&extension=ts&play_token=7szNFn812F
+#EXTINF:-1 tvg-id="31173" tvg-name="C+: ORTM" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ORTM.png" group-title="AFR| CANAL+ VIP HD/4K",C+: ORTM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853355&extension=ts&play_token=AKbSZhKZ9k
+#EXTINF:-1 tvg-id="31174" tvg-name="C+: PLANETE CPAFR" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/PLANETECPAFR.png" group-title="AFR| CANAL+ VIP HD/4K",C+: PLANETE CPAFR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853354&extension=ts&play_token=TzyKtTLpSN
+#EXTINF:-1 tvg-id="31175" tvg-name="C+: RTB" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTB.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853353&extension=ts&play_token=KIC37lJjNg
+#EXTINF:-1 tvg-id="31176" tvg-name="C+: RTG" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTG.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTG
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853352&extension=ts&play_token=4WlhFJ4LsN
+#EXTINF:-1 tvg-id="31177" tvg-name="C+: RTI 1" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTI1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTI 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853351&extension=ts&play_token=XiTXefurUc
+#EXTINF:-1 tvg-id="31178" tvg-name="C+: RTL 9" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTL9.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTL 9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853350&extension=ts&play_token=OlAMcnADEU
+#EXTINF:-1 tvg-id="31179" tvg-name="C+: RTN TELE SAHEL - NIGER" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTNTELESAHEL-NIGER.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTN TELE SAHEL - NIGER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853439&extension=ts&play_token=Xi0xS3eXga
+#EXTINF:-1 tvg-id="31180" tvg-name="C+: RTNB" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTNB.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTNB
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853403&extension=ts&play_token=XRe1hXv5WP
+#EXTINF:-1 tvg-id="31181" tvg-name="C+: RTNC" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTNC.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTNC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853349&extension=ts&play_token=ZXW0ggLJXb
+#EXTINF:-1 tvg-id="31182" tvg-name="C+: RTS 1" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RTS1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RTS 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853348&extension=ts&play_token=Lo1awmT4Gt
+#EXTINF:-1 tvg-id="31183" tvg-name="C+: RWANDA TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/RWANDA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: RWANDA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853402&extension=ts&play_token=h2sXnSJMXO
+#EXTINF:-1 tvg-id="31184" tvg-name="C+: SAHARA TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/SAHARA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: SAHARA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853435&extension=ts&play_token=kKslmUFDIl
+#EXTINF:-1 tvg-id="31185" tvg-name="C+: SEN TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/SEN.png" group-title="AFR| CANAL+ VIP HD/4K",C+: SEN TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853347&extension=ts&play_token=qdPSOFo6sa
+#EXTINF:-1 tvg-id="31186" tvg-name="C+: SSM TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/SSM.png" group-title="AFR| CANAL+ VIP HD/4K",C+: SSM TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853404&extension=ts&play_token=3Th4wWcAXa
+#EXTINF:-1 tvg-id="31187" tvg-name="C+: SUD 1ERE TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/SUD1ERE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: SUD 1ERE TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853456&extension=ts&play_token=xzbMEyNstU
+#EXTINF:-1 tvg-id="31188" tvg-name="C+: TELE 50 CONGO" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TELE50.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TELE 50 CONGO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853408&extension=ts&play_token=CRNUZOWO5i
+#EXTINF:-1 tvg-id="31189" tvg-name="C+: TF1" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TF1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TF1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853346&extension=ts&play_token=sKigH7VnEI
+#EXTINF:-1 tvg-id="31190" tvg-name="C+: TFM" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TFM.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TFM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853467&extension=ts&play_token=ZItyx9P89y
+#EXTINF:-1 tvg-id="31191" tvg-name="C+: TFX" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TFX.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TFX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853466&extension=ts&play_token=0MgMVBrSNj
+#EXTINF:-1 tvg-id="31192" tvg-name="C+: TIJI" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TIJI.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TIJI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853465&extension=ts&play_token=juCvRftxfg
+#EXTINF:-1 tvg-id="31193" tvg-name="C+: TLS AFRICA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ONE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TLS AFRICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853443&extension=ts&play_token=GlyEG9GzUK
+#EXTINF:-1 tvg-id="31194" tvg-name="C+: TRACE AFRICA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TRACEAFRICA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TRACE AFRICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853464&extension=ts&play_token=o2TJxH1NPE
+#EXTINF:-1 tvg-id="31195" tvg-name="C+: TRACE AFRICA HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TRACEAFRICA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TRACE AFRICA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853463&extension=ts&play_token=Mj5H2Eo94J
+#EXTINF:-1 tvg-id="31196" tvg-name="C+: TRACE AFRIKORA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TRACEAFRIKORA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TRACE AFRIKORA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853459&extension=ts&play_token=vNqu9vg2Nl
+#EXTINF:-1 tvg-id="31197" tvg-name="C+: TRACE CARIBBEAN FHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TRACECARIBBEAN.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TRACE CARIBBEAN FHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853462&extension=ts&play_token=aVzbcFvb4G
+#EXTINF:-1 tvg-id="31198" tvg-name="C+: TRACE KITOKO" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TRACEKITOKO.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TRACE KITOKO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853453&extension=ts&play_token=WYoo8ZWQHX
+#EXTINF:-1 tvg-id="31199" tvg-name="C+: TRACE LATINA FHD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TRACELATINA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TRACE LATINA FHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853461&extension=ts&play_token=FyFwIZg9Wz
+#EXTINF:-1 tvg-id="31200" tvg-name="C+: TRACE URBAN" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TRACEURBAN.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TRACE URBAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853460&extension=ts&play_token=vn53K0Alf5
+#EXTINF:-1 tvg-id="31201" tvg-name="C+: TREK" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TREK.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TREK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853430&extension=ts&play_token=PCZGaCWiGV
+#EXTINF:-1 tvg-id="31202" tvg-name="C+: TV 1 RWANDA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TV1.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TV 1 RWANDA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853455&extension=ts&play_token=ahRKl0svi0
+#EXTINF:-1 tvg-id="31203" tvg-name="C+: TV MAURITANIE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TVMAURITANIE.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TV MAURITANIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853445&extension=ts&play_token=HkiAS4AA4a
+#EXTINF:-1 tvg-id="31204" tvg-name="C+: TV TOGO" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TVTOGO.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TV TOGO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853446&extension=ts&play_token=wet5ndjU59
+#EXTINF:-1 tvg-id="31205" tvg-name="C+: TV1 RWANDA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TV1RWANDA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TV1 RWANDA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853432&extension=ts&play_token=SuZFLf7hft
+#EXTINF:-1 tvg-id="31206" tvg-name="C+: TV5" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TV5.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TV5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853458&extension=ts&play_token=vbOzGRKfmm
+#EXTINF:-1 tvg-id="31207" tvg-name="C+: TV7" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TV7.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TV7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853444&extension=ts&play_token=vnmk7Vs5ah
+#EXTINF:-1 tvg-id="31208" tvg-name="C+: TVC NEWS" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TVCNEWS.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TVC NEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853441&extension=ts&play_token=qpc88RiReN
+#EXTINF:-1 tvg-id="31209" tvg-name="C+: TVT" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/TVT.png" group-title="AFR| CANAL+ VIP HD/4K",C+: TVT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853429&extension=ts&play_token=A9YCISa9WP
+#EXTINF:-1 tvg-id="31210" tvg-name="C+: USHUAIA TV CPAFR" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/USHUAIA.png" group-title="AFR| CANAL+ VIP HD/4K",C+: USHUAIA TV CPAFR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853428&extension=ts&play_token=B5Yi1RDQOU
+#EXTINF:-1 tvg-id="31211" tvg-name="C+: VOX AFRICA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/VOX.png" group-title="AFR| CANAL+ VIP HD/4K",C+: VOX AFRICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853457&extension=ts&play_token=KvmYLwS7zf
+#EXTINF:-1 tvg-id="31212" tvg-name="C+: ZEE MAGIC" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/ZEEMAGIC.png" group-title="AFR| CANAL+ VIP HD/4K",C+: ZEE MAGIC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853409&extension=ts&play_token=aDAMCSMJ3i
+#EXTINF:-1 tvg-id="31213" tvg-name="C+:7INFO" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/7INFO.png" group-title="AFR| CANAL+ VIP HD/4K",C+:7INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853417&extension=ts&play_token=HuCVvDTlAY
+#EXTINF:-1 tvg-id="31214" tvg-name="C+:A+ BENIN" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/APLUSBENIN.png" group-title="AFR| CANAL+ VIP HD/4K",C+:A+ BENIN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853418&extension=ts&play_token=EDvbVAtnhu
+#EXTINF:-1 tvg-id="31215" tvg-name="C+:A+ IVOIRE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/APLUSIVOIRE.png" group-title="AFR| CANAL+ VIP HD/4K",C+:A+ IVOIRE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853419&extension=ts&play_token=5D6aAv3os9
+#EXTINF:-1 tvg-id="31216" tvg-name="C+:AFRICA 24" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/AFRICA24.png" group-title="AFR| CANAL+ VIP HD/4K",C+:AFRICA 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853420&extension=ts&play_token=8Iiwf3xLca
+#EXTINF:-1 tvg-id="31217" tvg-name="C+:B-One" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/B-One.png" group-title="AFR| CANAL+ VIP HD/4K",C+:B-One
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853421&extension=ts&play_token=GtyYgi6KZc
+#EXTINF:-1 tvg-id="31218" tvg-name="C+:C-Direct" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/C-Direct.png" group-title="AFR| CANAL+ VIP HD/4K",C+:C-Direct
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853422&extension=ts&play_token=csPgybMQNa
+#EXTINF:-1 tvg-id="31219" tvg-name="C+:CANAL+ ACTION CENTRE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CANAL+ ACTION CENTRE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853410&extension=ts&play_token=Ux0gm376f8
+#EXTINF:-1 tvg-id="31220" tvg-name="C+:CANAL+ CINEMA CENTRE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CANAL+ CINEMA CENTRE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853411&extension=ts&play_token=C30ePYWgNv
+#EXTINF:-1 tvg-id="31221" tvg-name="C+:CANAL+ CINEMA OUEST" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CANAL+ CINEMA OUEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853412&extension=ts&play_token=jAxb8zvl1E
+#EXTINF:-1 tvg-id="31222" tvg-name="C+:CANAL+ FAMILY CENTRE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CANAL+ FAMILY CENTRE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853414&extension=ts&play_token=Lt0EoqY0VP
+#EXTINF:-1 tvg-id="31223" tvg-name="C+:CANAL+ MAGIC HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CANAL+ MAGIC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853413&extension=ts&play_token=T6xpLK6HyL
+#EXTINF:-1 tvg-id="31224" tvg-name="C+:CANAL+ PREMIERE CENTRE" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CANAL+ PREMIERE CENTRE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853415&extension=ts&play_token=KQMTNtse23
+#EXTINF:-1 tvg-id="31225" tvg-name="C+:CANAL+ PREMIERE OUEST" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUS.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CANAL+ PREMIERE OUEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853416&extension=ts&play_token=ZydFOKWa8s
+#EXTINF:-1 tvg-id="31226" tvg-name="C+:CHERIFLA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CHERIFLA.png" group-title="AFR| CANAL+ VIP HD/4K",C+:CHERIFLA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853423&extension=ts&play_token=U2Qjnjnw90
+#EXTINF:-1 tvg-id="31227" tvg-name="C+:GABON 1ERE HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/GABON1ERE.png" group-title="AFR| CANAL+ VIP HD/4K",C+:GABON 1ERE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1853424&extension=ts&play_token=DSnTR4biYD
+#EXTINF:-1 tvg-id="33593" tvg-name="#### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####" tvg-logo="https://i.ibb.co/prQGp2k4/Prime-Video-GIF.gif" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",#### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537370&extension=ts&play_token=s6AUtXzKng
+#EXTINF:-1 tvg-id="33594" tvg-name="PRIME: ADULT SWIM ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: ADULT SWIM ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537369&extension=ts&play_token=4RI6qyS5LM
+#EXTINF:-1 tvg-id="33595" tvg-name="PRIME: AMC CANADA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: AMC CANADA ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537368&extension=ts&play_token=QGTlhKePVj
+#EXTINF:-1 tvg-id="33596" tvg-name="PRIME: AMC+ CANADA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: AMC+ CANADA ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537367&extension=ts&play_token=nRrK5zvYUQ
+#EXTINF:-1 tvg-id="33597" tvg-name="PRIME: BBC EARTH ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: BBC EARTH ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537366&extension=ts&play_token=dpEexUUdF1
+#EXTINF:-1 tvg-id="33598" tvg-name="PRIME: BLOOMBERG TV+ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: BLOOMBERG TV+ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537365&extension=ts&play_token=rLiEQsofua
+#EXTINF:-1 tvg-id="33599" tvg-name="PRIME: BRAVO ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: BRAVO ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537364&extension=ts&play_token=uTYXUbSMXW
+#EXTINF:-1 tvg-id="33600" tvg-name="PRIME: CARTOON NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CARTOON NETWORK ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537363&extension=ts&play_token=u31xO3czvQ
+#EXTINF:-1 tvg-id="33601" tvg-name="PRIME: CITYNEWS 24/7 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CITYNEWS 24/7 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537361&extension=ts&play_token=oOYsZ0wGN4
+#EXTINF:-1 tvg-id="33602" tvg-name="PRIME: CITYNEWS 24/7 WEST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CITYNEWS 24/7 WEST ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537360&extension=ts&play_token=8lLScFtNZZ
+#EXTINF:-1 tvg-id="33603" tvg-name="PRIME: CITYTV CALGARY ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CITYTV CALGARY ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537359&extension=ts&play_token=FaBDjJZjqo
+#EXTINF:-1 tvg-id="33604" tvg-name="PRIME: CITYTV EDMONTON ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CITYTV EDMONTON ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537358&extension=ts&play_token=9UEmwuzBOa
+#EXTINF:-1 tvg-id="33605" tvg-name="PRIME: CITYTV MONTREAL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CITYTV MONTREAL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537357&extension=ts&play_token=0M2yGYoE7s
+#EXTINF:-1 tvg-id="33606" tvg-name="PRIME: CITYTV VANCOUVER ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CITYTV VANCOUVER ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537356&extension=ts&play_token=J9pBOy8ims
+#EXTINF:-1 tvg-id="33607" tvg-name="PRIME: DISCOVERY CHANNEL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DISCOVERY CHANNEL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537351&extension=ts&play_token=42AMzySAah
+#EXTINF:-1 tvg-id="33608" tvg-name="PRIME: DISNEY CHANNEL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DISNEY CHANNEL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537350&extension=ts&play_token=A7FktuWfDB
+#EXTINF:-1 tvg-id="33609" tvg-name="PRIME: DTOUR ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DTOUR ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537347&extension=ts&play_token=gqiU3HNRcv
+#EXTINF:-1 tvg-id="33610" tvg-name="PRIME: FLAVOUR NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FLAVOUR NETWORK ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537343&extension=ts&play_token=IuzmXqPwjb
+#EXTINF:-1 tvg-id="33611" tvg-name="PRIME: FOOD NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FOOD NETWORK ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537342&extension=ts&play_token=UtI2jPLdRw
+#EXTINF:-1 tvg-id="33612" tvg-name="PRIME: FX ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FX ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537339&extension=ts&play_token=AZ2p8EMgAZ
+#EXTINF:-1 tvg-id="33613" tvg-name="PRIME: FXX CANADA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FXX CANADA ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537338&extension=ts&play_token=iBSelFDPsR
+#EXTINF:-1 tvg-id="33614" tvg-name="PRIME: GLOBAL BC ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL BC ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537337&extension=ts&play_token=1ErFLQTDPQ
+#EXTINF:-1 tvg-id="33615" tvg-name="PRIME: GLOBAL CALGARY ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL CALGARY ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537336&extension=ts&play_token=AeuVmEz3Sr
+#EXTINF:-1 tvg-id="33616" tvg-name="PRIME: GLOBAL EDMONTON ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL EDMONTON ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537335&extension=ts&play_token=a0hAonYYUK
+#EXTINF:-1 tvg-id="33617" tvg-name="PRIME: GLOBAL MARITIMES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL MARITIMES ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537334&extension=ts&play_token=M99z7Qnjx8
+#EXTINF:-1 tvg-id="33618" tvg-name="PRIME: GLOBAL NEWS BC ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL NEWS BC ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537333&extension=ts&play_token=4aQ4FyohOz
+#EXTINF:-1 tvg-id="33619" tvg-name="PRIME: GLOBAL NEWS CALGARY ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL NEWS CALGARY ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537332&extension=ts&play_token=gCtbc3uJEN
+#EXTINF:-1 tvg-id="33620" tvg-name="PRIME: GLOBAL NEWS EDMONTON ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL NEWS EDMONTON ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537331&extension=ts&play_token=RUIMdNtGDB
+#EXTINF:-1 tvg-id="33621" tvg-name="PRIME: GLOBAL NEWS TORONTO ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL NEWS TORONTO ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537330&extension=ts&play_token=gAn6URacaU
+#EXTINF:-1 tvg-id="33622" tvg-name="PRIME: HGTV ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HGTV ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537327&extension=ts&play_token=hjiqGfmsiu
+#EXTINF:-1 tvg-id="33623" tvg-name="PRIME: HISTORY ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HISTORY ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537326&extension=ts&play_token=W2s8P0iWRF
+#EXTINF:-1 tvg-id="33624" tvg-name="PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537325&extension=ts&play_token=SM8F9dG5We
+#EXTINF:-1 tvg-id="33625" tvg-name="PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537324&extension=ts&play_token=RrrrRsyHAf
+#EXTINF:-1 tvg-id="33626" tvg-name="PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537323&extension=ts&play_token=RzGUGFbeb3
+#EXTINF:-1 tvg-id="33627" tvg-name="PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537322&extension=ts&play_token=ZkKv7yQLxQ
+#EXTINF:-1 tvg-id="33628" tvg-name="PRIME: HOME NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOME NETWORK ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537321&extension=ts&play_token=MHlm02qPU8
+#EXTINF:-1 tvg-id="33629" tvg-name="PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537320&extension=ts&play_token=JAAvs8hHlm
+#EXTINF:-1 tvg-id="33630" tvg-name="PRIME: LIFETIME (CANADA) ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: LIFETIME (CANADA) ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537319&extension=ts&play_token=5ArpHlb1hH
+#EXTINF:-1 tvg-id="33631" tvg-name="PRIME: MAGNOLIA NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: MAGNOLIA NETWORK ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537318&extension=ts&play_token=M5mXSxaOuF
+#EXTINF:-1 tvg-id="33632" tvg-name="PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537316&extension=ts&play_token=yJ5o4wI3Ig
+#EXTINF:-1 tvg-id="33633" tvg-name="PRIME: OMNI TELEVISION ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: OMNI TELEVISION ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537314&extension=ts&play_token=fKMIBCtf6l
+#EXTINF:-1 tvg-id="33634" tvg-name="PRIME: SHOWCASE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SHOWCASE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537309&extension=ts&play_token=G4jhnG008K
+#EXTINF:-1 tvg-id="33635" tvg-name="PRIME: SLICE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SLICE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537308&extension=ts&play_token=nKk12G5zW4
+#EXTINF:-1 tvg-id="33636" tvg-name="PRIME: STARZ1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: STARZ1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537301&extension=ts&play_token=R3L7P4KuMo
+#EXTINF:-1 tvg-id="33637" tvg-name="PRIME: STARZ2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: STARZ2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537300&extension=ts&play_token=TZAlJ2eSgp
+#EXTINF:-1 tvg-id="33638" tvg-name="PRIME: SUPER CHANNEL FUSE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SUPER CHANNEL FUSE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537299&extension=ts&play_token=smKhGO8BIb
+#EXTINF:-1 tvg-id="33639" tvg-name="PRIME: SUPER CHANNEL HEART & HOME ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SUPER CHANNEL HEART & HOME ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537298&extension=ts&play_token=5tOsy1WWeh
+#EXTINF:-1 tvg-id="33640" tvg-name="PRIME: SUPER CHANNEL QUEST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SUPER CHANNEL QUEST ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537297&extension=ts&play_token=JQLLh5N1l2
+#EXTINF:-1 tvg-id="33641" tvg-name="PRIME: SUPER CHANNEL VAULT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SUPER CHANNEL VAULT ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537296&extension=ts&play_token=mBC6cqlTdS
+#EXTINF:-1 tvg-id="33642" tvg-name="PRIME: THE WALKING DEAD CHANNEL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: THE WALKING DEAD CHANNEL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537291&extension=ts&play_token=GnWV9pYz0U
+#EXTINF:-1 tvg-id="33643" tvg-name="PRIME: TREEHOUSE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: TREEHOUSE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537290&extension=ts&play_token=luVWslp0iw
+#EXTINF:-1 tvg-id="33644" tvg-name="PRIME: W NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: W NETWORK ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537283&extension=ts&play_token=Ht10mozsrx
+#EXTINF:-1 tvg-id="33645" tvg-name="PRIME: YTV ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: YTV ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1537282&extension=ts&play_token=LuGU2VjUcw
+#EXTINF:-1 tvg-id="33646" tvg-name="#### CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",#### CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ ####
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498338&extension=ts&play_token=wu7vUNkO94
+#EXTINF:-1 tvg-id="33647" tvg-name="CA: TVA HULL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12024.png?69790" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TVA HULL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1044083&extension=ts&play_token=SrYq5PPy4c
+#EXTINF:-1 tvg-id="33648" tvg-name="CA: A & E" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?61333" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: A & E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498798&extension=ts&play_token=13pVt8ZJga
+#EXTINF:-1 tvg-id="33649" tvg-name="CA: HPiTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13969.png?18618" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: HPiTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498800&extension=ts&play_token=BSnMO5Uhx1
+#EXTINF:-1 tvg-id="33650" tvg-name="CA: ADDIK TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1019.jpg?48726" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ADDIK TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498797&extension=ts&play_token=zZUnhQgiJl
+#EXTINF:-1 tvg-id="33651" tvg-name="CA: AHC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11097.jpg?49878" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: AHC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498796&extension=ts&play_token=6lv8e1g55F
+#EXTINF:-1 tvg-id="33652" tvg-name="CA: AMC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6164.png?98728" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: AMC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498795&extension=ts&play_token=WTuvTQHp85
+#EXTINF:-1 tvg-id="33653" tvg-name="CA: ANIMAL PLANET" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6704.png?16128" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ANIMAL PLANET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498794&extension=ts&play_token=BdvNO2tBVV
+#EXTINF:-1 tvg-id="33654" tvg-name="CA: APTN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5992.jpg?68765" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: APTN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498793&extension=ts&play_token=lgpkKZDQES
+#EXTINF:-1 tvg-id="33655" tvg-name="CA: BBC CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/364.png?64956" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: BBC CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498791&extension=ts&play_token=JCurrbjtp1
+#EXTINF:-1 tvg-id="33656" tvg-name="CA: BBC WORLD NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/364.png?64956" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: BBC WORLD NEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498790&extension=ts&play_token=9BZOkIBwle
+#EXTINF:-1 tvg-id="33657" tvg-name="CA: Best Hits Radio 80's" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7684.jpg?21225" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: Best Hits Radio 80's
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498611&extension=ts&play_token=34ugetRcXe
+#EXTINF:-1 tvg-id="33658" tvg-name="CA: BET" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?77138" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: BET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498788&extension=ts&play_token=HUCI9Jm9uh
+#EXTINF:-1 tvg-id="33659" tvg-name="CA: BNN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3067.png?15549" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: BNN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498787&extension=ts&play_token=DKNP3NvDeY
+#EXTINF:-1 tvg-id="33660" tvg-name="CA: BRAVO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8297.jpg?27964" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: BRAVO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498785&extension=ts&play_token=pB03cXLBn3
+#EXTINF:-1 tvg-id="33661" tvg-name="CA: CANAL D" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6028.jpg?45230" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CANAL D
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498784&extension=ts&play_token=vfZUD4EFHH
+#EXTINF:-1 tvg-id="33662" tvg-name="CA: CTV LETHBRIDGE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6489.png?68479" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV LETHBRIDGE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498783&extension=ts&play_token=wuPzahRuYz
+#EXTINF:-1 tvg-id="33663" tvg-name="CA: CARTOON NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/633.png?93519" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CARTOON NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498782&extension=ts&play_token=ycvyV4Hpil
+#EXTINF:-1 tvg-id="33664" tvg-name="CA: CBC CALGARY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?19676" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBC CALGARY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498636&extension=ts&play_token=PFUWsgJPvo
+#EXTINF:-1 tvg-id="33665" tvg-name="CA: GLOBAL NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3029.png?96492" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GLOBAL NEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1754412&extension=ts&play_token=5W8rDpf4Ch
+#EXTINF:-1 tvg-id="33666" tvg-name="CA: ZEE TV CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10628.jpg?67753" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ZEE TV CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498781&extension=ts&play_token=N3FIP6lfm9
+#EXTINF:-1 tvg-id="33667" tvg-name="CA: CBC MONTREAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBC MONTREAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498780&extension=ts&play_token=d3ecrh3yUp
+#EXTINF:-1 tvg-id="33668" tvg-name="CA: CBC NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBC NEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498779&extension=ts&play_token=o1JUq9mwfQ
+#EXTINF:-1 tvg-id="33669" tvg-name="CA: CBC OTTAWA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBC OTTAWA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498778&extension=ts&play_token=BjMyIxaGDF
+#EXTINF:-1 tvg-id="33670" tvg-name="CA: CBC TORONTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBC TORONTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498777&extension=ts&play_token=VSL289nKFw
+#EXTINF:-1 tvg-id="33671" tvg-name="CA: CBC VANCOUVER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBC VANCOUVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498776&extension=ts&play_token=vJ8duhViTO
+#EXTINF:-1 tvg-id="33672" tvg-name="CA: CBS EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBS EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498775&extension=ts&play_token=rzhaRa3VHd
+#EXTINF:-1 tvg-id="33673" tvg-name="CA: CBS WEST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8363.jpg?22163" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CBS WEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498774&extension=ts&play_token=iJPO1MtlMi
+#EXTINF:-1 tvg-id="33674" tvg-name="CA: CHCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1025.jpg?23916" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CHCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498773&extension=ts&play_token=35PNTLAo6d
+#EXTINF:-1 tvg-id="33675" tvg-name="CA: CINEPOP" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3866.jpg?41386" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CINEPOP
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498772&extension=ts&play_token=lJGxZh2PbJ
+#EXTINF:-1 tvg-id="33676" tvg-name="CA: CITY TV CALGARY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3325.jpg?7928" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CITY TV CALGARY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498635&extension=ts&play_token=amBGRf5V0C
+#EXTINF:-1 tvg-id="33677" tvg-name="CA: CITY TV MONTREAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3325.jpg?90393" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CITY TV MONTREAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498771&extension=ts&play_token=tO5FdNyt0P
+#EXTINF:-1 tvg-id="33678" tvg-name="CA: CITY TV TORONTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3325.jpg?90393" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CITY TV TORONTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498770&extension=ts&play_token=oJFRbXDYSK
+#EXTINF:-1 tvg-id="33679" tvg-name="CA: CJWV Oldies 96.7 FM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12551.jpg?43179" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CJWV Oldies 96.7 FM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498612&extension=ts&play_token=ukMjcfnhWR
+#EXTINF:-1 tvg-id="33680" tvg-name="CA: CITY TV  WINNIPEG HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3325.jpg?25098" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CITY TV  WINNIPEG HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=704101&extension=ts&play_token=j4cv7M172Q
+#EXTINF:-1 tvg-id="33681" tvg-name="CA: CITY TV SASKATCHEWAN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3325.jpg?25098" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CITY TV SASKATCHEWAN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=704100&extension=ts&play_token=bWsrhXjZ84
+#EXTINF:-1 tvg-id="33682" tvg-name="CA: CITY TV VANCOUVER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3325.jpg?90393" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CITY TV VANCOUVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498769&extension=ts&play_token=EjzUEWcNWG
+#EXTINF:-1 tvg-id="33683" tvg-name="CA: CMT CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11185.jpg?93176" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CMT CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498768&extension=ts&play_token=po3Af8F2wh
+#EXTINF:-1 tvg-id="33684" tvg-name="CA: CNBC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11398.png?78074" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CNBC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498813&extension=ts&play_token=X5p4OqXIcq
+#EXTINF:-1 tvg-id="33685" tvg-name="CA: CNN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?95426" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CNN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498815&extension=ts&play_token=f6cClGxUxc
+#EXTINF:-1 tvg-id="33686" tvg-name="CA: CNN INTERNATIONAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14016.png?52952" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CNN INTERNATIONAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498814&extension=ts&play_token=epJhFtjWWW
+#EXTINF:-1 tvg-id="33687" tvg-name="CA: COOKING CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8272.jpg?43738" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: COOKING CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498767&extension=ts&play_token=4O6m56G5CU
+#EXTINF:-1 tvg-id="33688" tvg-name="CA: COTTAGE LIFE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13628.png?64315" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: COTTAGE LIFE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498766&extension=ts&play_token=RLhplphvOa
+#EXTINF:-1 tvg-id="33689" tvg-name="CA: CP24 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13329.jpg?3299" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CP24 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498816&extension=ts&play_token=OsOoTMM4Ps
+#EXTINF:-1 tvg-id="33690" tvg-name="CA: CPAC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1014.png?23337" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CPAC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498765&extension=ts&play_token=PX4lgRJbdH
+#EXTINF:-1 tvg-id="33691" tvg-name="CA: CPAC FRENCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1014.png?23337" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CPAC FRENCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498764&extension=ts&play_token=KJ9zR9AqWD
+#EXTINF:-1 tvg-id="33692" tvg-name="CA: CRAVE 1 / TMN 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3891.png?12842" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CRAVE 1 / TMN 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498634&extension=ts&play_token=L1PGRMyh9B
+#EXTINF:-1 tvg-id="33693" tvg-name="CA: CRAVE 2 / TMN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3891.png?12842" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CRAVE 2 / TMN 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498633&extension=ts&play_token=RvsgldHqqS
+#EXTINF:-1 tvg-id="33694" tvg-name="CA: CRAVE 3 / TMN 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3891.png?12842" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CRAVE 3 / TMN 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498632&extension=ts&play_token=1tFdsIyvwb
+#EXTINF:-1 tvg-id="33695" tvg-name="CA: CRAVE 4 / TMN 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3891.png?12842" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CRAVE 4 / TMN 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498631&extension=ts&play_token=A1M4Rj6ViA
+#EXTINF:-1 tvg-id="33696" tvg-name="CA: CTV Drama Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8460.jpg?49894" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV Drama Channel
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=611721&extension=ts&play_token=AbOsRObYhW
+#EXTINF:-1 tvg-id="33697" tvg-name="CA: CTV News Edmonton HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6449.png?56278" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV News Edmonton HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=706429&extension=ts&play_token=ueI8xgfArS
+#EXTINF:-1 tvg-id="33698" tvg-name="CA: CTV 2 OTTAWA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/929.jpg?31230" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV 2 OTTAWA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498756&extension=ts&play_token=djgO1VzZNB
+#EXTINF:-1 tvg-id="33699" tvg-name="CA: CRIME & INVESTIGATION" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?23469" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CRIME & INVESTIGATION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498763&extension=ts&play_token=Kkf8rtlpwZ
+#EXTINF:-1 tvg-id="33700" tvg-name="CA: CTV NEWS MONTREAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6453.png?86206" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV NEWS MONTREAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498629&extension=ts&play_token=1ZGwXSVIy3
+#EXTINF:-1 tvg-id="33701" tvg-name="CA: CTV NEWS NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/929.jpg?61312" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV NEWS NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498760&extension=ts&play_token=0UjvZvEPkH
+#EXTINF:-1 tvg-id="33702" tvg-name="CA: CTV News Regina HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10739.png?1909" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV News Regina HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=813889&extension=ts&play_token=3bIuiSgSJd
+#EXTINF:-1 tvg-id="33703" tvg-name="CA: CTV MONTREAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10739.png?1909" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV MONTREAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1245815&extension=ts&play_token=7Ev7iQkqDP
+#EXTINF:-1 tvg-id="33704" tvg-name="CA:  CTV Sudbury HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6382.jpg?7869" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA:  CTV Sudbury HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=771089&extension=ts&play_token=KRCJnshQuo
+#EXTINF:-1 tvg-id="33705" tvg-name="CA: ONE SOCCER HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3326.png?26626" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ONE SOCCER HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=751301&extension=ts&play_token=Fnt0h6m6xt
+#EXTINF:-1 tvg-id="33706" tvg-name="CA: CTV Timmins HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6460.jpg?51427" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV Timmins HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=771088&extension=ts&play_token=YDf53Gz452
+#EXTINF:-1 tvg-id="33707" tvg-name="CA: CTV OTTAWA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/929.jpg?61312" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV OTTAWA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498759&extension=ts&play_token=lL3dY0IZHH
+#EXTINF:-1 tvg-id="33708" tvg-name="CA: CTV TORONTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/929.jpg?61312" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV TORONTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498758&extension=ts&play_token=9bkUm1AYB3
+#EXTINF:-1 tvg-id="33709" tvg-name="CA: CTV Comedy HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11011.jpg?98576" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV Comedy HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=744354&extension=ts&play_token=YNuR5reyfc
+#EXTINF:-1 tvg-id="33710" tvg-name="CA: CTV SASKATOON SASKATCHEWAN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11075.png?299" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV SASKATOON SASKATCHEWAN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1196705&extension=ts&play_token=LRP2UXdIuz
+#EXTINF:-1 tvg-id="33711" tvg-name="CA: CW 11" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13624.png?4186" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CW 11
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498755&extension=ts&play_token=bPghkrYNLL
+#EXTINF:-1 tvg-id="33712" tvg-name="CA: GLOBAL CALGARY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7816.png?76919" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GLOBAL CALGARY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1260958&extension=ts&play_token=zeT72N89L9
+#EXTINF:-1 tvg-id="33713" tvg-name="CA EN: GLOBAL TORONTO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3029.png?96943" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA EN: GLOBAL TORONTO HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1709470&extension=ts&play_token=ylUJccIubI
+#EXTINF:-1 tvg-id="33714" tvg-name="CA: GlLOBL EDMONTON" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7816.png?76919" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GlLOBL EDMONTON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1260957&extension=ts&play_token=izAFegibN2
+#EXTINF:-1 tvg-id="33715" tvg-name="CA: DAYSTAR TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12077.jpg?47599" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DAYSTAR TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498754&extension=ts&play_token=MDP65R5VXE
+#EXTINF:-1 tvg-id="33716" tvg-name="CA: DEJAVIEW" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8101.jpg?25236" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DEJAVIEW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498753&extension=ts&play_token=6tRP3OYc9K
+#EXTINF:-1 tvg-id="33717" tvg-name="CA: DISCOVERY CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14077.png?26906" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DISCOVERY CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498752&extension=ts&play_token=q9p9Vqo2X0
+#EXTINF:-1 tvg-id="33718" tvg-name="CA: CTV NATURE CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/929.jpg?31025" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV NATURE CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498751&extension=ts&play_token=5g1d0dzRY6
+#EXTINF:-1 tvg-id="33719" tvg-name="CA: DISNEY CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/634.jpg?92922" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DISNEY CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498750&extension=ts&play_token=VDXyKXDSD0
+#EXTINF:-1 tvg-id="33720" tvg-name="CA: DISNEY JUNIOR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?90527" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DISNEY JUNIOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498748&extension=ts&play_token=hOjB9FEQZS
+#EXTINF:-1 tvg-id="33721" tvg-name="CA: DISNEY JUNIOR FRANCE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?90527" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DISNEY JUNIOR FRANCE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498749&extension=ts&play_token=p0NBMAmZvn
+#EXTINF:-1 tvg-id="33722" tvg-name="CA: DIY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13320.jpg?85662" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DIY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498747&extension=ts&play_token=5vG2sJnRlN
+#EXTINF:-1 tvg-id="33723" tvg-name="CA: DOCUMENTARY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12440.png?38880" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DOCUMENTARY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498746&extension=ts&play_token=QAXXYKL86n
+#EXTINF:-1 tvg-id="33724" tvg-name="CA: DTOUR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1948.jpg?94580" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: DTOUR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498745&extension=ts&play_token=36Q8luTI4M
+#EXTINF:-1 tvg-id="33725" tvg-name="CA: E! ENTERTAINMENT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?68928" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: E! ENTERTAINMENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498744&extension=ts&play_token=tZ2uAFqIX3
+#EXTINF:-1 tvg-id="33726" tvg-name="CA: EVASION" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8475.jpg?20267" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: EVASION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498743&extension=ts&play_token=oI6Oyp0t8i
+#EXTINF:-1 tvg-id="33727" tvg-name="CA: FAMILY CHRGD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3298.jpg?16323" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FAMILY CHRGD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498742&extension=ts&play_token=58l2DkO3BC
+#EXTINF:-1 tvg-id="33728" tvg-name="CA: FAMILY EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3298.jpg?16323" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FAMILY EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498741&extension=ts&play_token=oVq5u4QdMW
+#EXTINF:-1 tvg-id="33729" tvg-name="CA: FAMILY JR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3298.jpg?16323" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FAMILY JR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498740&extension=ts&play_token=Kzus6qlOhl
+#EXTINF:-1 tvg-id="33730" tvg-name="CA: FAMILY WEST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3298.jpg?16323" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FAMILY WEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498739&extension=ts&play_token=ZwLWgRscMV
+#EXTINF:-1 tvg-id="33731" tvg-name="CA: FIGHT NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3942.png?19306" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FIGHT NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498738&extension=ts&play_token=Ln0TiNL9vW
+#EXTINF:-1 tvg-id="33732" tvg-name="CA: FOOD NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?91255" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FOOD NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498737&extension=ts&play_token=nREa8M2q6L
+#EXTINF:-1 tvg-id="33733" tvg-name="CA: FOX EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13625.png?93035" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FOX EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498736&extension=ts&play_token=t7lX6Uf3tD
+#EXTINF:-1 tvg-id="33734" tvg-name="CA: FOX NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13625.png?93035" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FOX NEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498735&extension=ts&play_token=2hGM8XC2lE
+#EXTINF:-1 tvg-id="33735" tvg-name="CA: INVESTIGATION DISCOVERY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/738.png?8921" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: INVESTIGATION DISCOVERY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498734&extension=ts&play_token=NHocBGLAxv
+#EXTINF:-1 tvg-id="33736" tvg-name="CA: FRISSON" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8313.jpg?46514" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: FRISSON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498628&extension=ts&play_token=uzPV5D1tWc
+#EXTINF:-1 tvg-id="33737" tvg-name="CA: CTV SCIFI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8413.jpg?53051" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CTV SCIFI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498733&extension=ts&play_token=ErbjOW5D9G
+#EXTINF:-1 tvg-id="33738" tvg-name="CA: GAMETV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1962.jpg?3191" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GAMETV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498731&extension=ts&play_token=0XTaDzbsUp
+#EXTINF:-1 tvg-id="33739" tvg-name="CA: GINX ESPORTS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/726.png?90641" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GINX ESPORTS TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498730&extension=ts&play_token=w6iheFhSTg
+#EXTINF:-1 tvg-id="33740" tvg-name="CA: GLOBAL BC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3029.png?93026" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GLOBAL BC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498729&extension=ts&play_token=bHEISpuEev
+#EXTINF:-1 tvg-id="33741" tvg-name="CA: GLOBAL TORONTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3029.png?93026" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GLOBAL TORONTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498728&extension=ts&play_token=TbmYoka7Vb
+#EXTINF:-1 tvg-id="33742" tvg-name="CA: GLOBAL VANCOUVER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11188.png?16436" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GLOBAL VANCOUVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498726&extension=ts&play_token=aWleOpYueh
+#EXTINF:-1 tvg-id="33743" tvg-name="CA: GOLF" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14410.jpg?20635" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GOLF
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498727&extension=ts&play_token=ws5NTSIlyX
+#EXTINF:-1 tvg-id="33744" tvg-name="CA: GSN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8231.png?69946" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GSN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498725&extension=ts&play_token=zTVKSuLOra
+#EXTINF:-1 tvg-id="33745" tvg-name="CA: GUSTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2307.png?86847" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: GUSTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498724&extension=ts&play_token=D0mPgEexdw
+#EXTINF:-1 tvg-id="33746" tvg-name="CA: H2 CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9715.jpg?59526" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: H2 CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498723&extension=ts&play_token=EHrryLB7BX
+#EXTINF:-1 tvg-id="33747" tvg-name="CA: HBO 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1916.jpg?86674" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: HBO 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498722&extension=ts&play_token=FnaRyCh1OC
+#EXTINF:-1 tvg-id="33748" tvg-name="CA: HBO 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3267.jpg?81566" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: HBO 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498721&extension=ts&play_token=98oGbMqmrc
+#EXTINF:-1 tvg-id="33749" tvg-name="CA: HGTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13003.jpg?28759" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: HGTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498720&extension=ts&play_token=62wbCbryFv
+#EXTINF:-1 tvg-id="33750" tvg-name="CA: HISTORIA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?91230" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: HISTORIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498719&extension=ts&play_token=y9KWx9NJKa
+#EXTINF:-1 tvg-id="33751" tvg-name="CA: HISTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?91230" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: HISTORY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498718&extension=ts&play_token=mhTOGzIiu5
+#EXTINF:-1 tvg-id="33752" tvg-name="CA: HLN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7862.jpg?96426" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: HLN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498717&extension=ts&play_token=WVGZy8yFY0
+#EXTINF:-1 tvg-id="33753" tvg-name="CA: ICI MONTREAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11448.jpg?37310" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ICI MONTREAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498715&extension=ts&play_token=sfA4TFJlm2
+#EXTINF:-1 tvg-id="33754" tvg-name="CA: ICI VANCOUVER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11448.jpg?37310" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ICI VANCOUVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498716&extension=ts&play_token=7SqXmIkk92
+#EXTINF:-1 tvg-id="33755" tvg-name="CA: IFC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8212.png?39066" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: IFC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498713&extension=ts&play_token=NN1VYyjQ8w
+#EXTINF:-1 tvg-id="33756" tvg-name="CA: KNOWLEDGE KIDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/351.png?68319" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: KNOWLEDGE KIDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498712&extension=ts&play_token=UwkdD2vE9p
+#EXTINF:-1 tvg-id="33757" tvg-name="CA: VTM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12748.jpg?66411" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: VTM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498711&extension=ts&play_token=l7FVwQLfNX
+#EXTINF:-1 tvg-id="33758" tvg-name="CA: LCN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1867.jpg?10030" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: LCN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498710&extension=ts&play_token=kGaDiMhmjT
+#EXTINF:-1 tvg-id="33759" tvg-name="CA: LIFETIME" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?61430" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: LIFETIME
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498709&extension=ts&play_token=l6Z0qv6Gza
+#EXTINF:-1 tvg-id="33760" tvg-name="CA: MAKEFUL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/905.jpg?32011" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: MAKEFUL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498708&extension=ts&play_token=tZmfEBPOq6
+#EXTINF:-1 tvg-id="33761" tvg-name="CA: MAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10173.png?97054" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: MAX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498707&extension=ts&play_token=ws4kv8Rex3
+#EXTINF:-1 tvg-id="33762" tvg-name="CA: MIRACLE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4761.png?54778" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: MIRACLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498706&extension=ts&play_token=1ucyhu5HxO
+#EXTINF:-1 tvg-id="33763" tvg-name="CA: MOVIETIME" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10636.jpg?10954" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: MOVIETIME
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498704&extension=ts&play_token=45szZeTzGR
+#EXTINF:-1 tvg-id="33764" tvg-name="CA: MTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6534.jpg?53552" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: MTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498703&extension=ts&play_token=BRCXUqHzcG
+#EXTINF:-1 tvg-id="33765" tvg-name="CA: MTV 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6534.jpg?53552" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: MTV 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498702&extension=ts&play_token=7wYclvCPv4
+#EXTINF:-1 tvg-id="33766" tvg-name="CA: MUCH MUSIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3912.png?10133" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: MUCH MUSIC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498701&extension=ts&play_token=5n33Mx9bIB
+#EXTINF:-1 tvg-id="33767" tvg-name="CA: NAT GEO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6656.png?16505" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: NAT GEO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498699&extension=ts&play_token=tf7B4vIBiB
+#EXTINF:-1 tvg-id="33768" tvg-name="CA: NBA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4727.jpg?29801" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: NBA TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498698&extension=ts&play_token=0iFoQu6tFr
+#EXTINF:-1 tvg-id="33769" tvg-name="CA: NBC EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13623.png?5413" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: NBC EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498697&extension=ts&play_token=VYgubPFR8Z
+#EXTINF:-1 tvg-id="33770" tvg-name="CA: NBC WEST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13623.png?5413" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: NBC WEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498696&extension=ts&play_token=TTmQqMAtDP
+#EXTINF:-1 tvg-id="33771" tvg-name="CA: NICK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3795.jpg?65136" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: NICK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498695&extension=ts&play_token=45bvzdZhU0
+#EXTINF:-1 tvg-id="33772" tvg-name="CA: NTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14133.png?21632" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: NTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498694&extension=ts&play_token=d9VyxleNyn
+#EXTINF:-1 tvg-id="33773" tvg-name="CA: OLN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1868.png?41510" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: OLN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498693&extension=ts&play_token=Cdi8cWjqsP
+#EXTINF:-1 tvg-id="33774" tvg-name="CA: OMNI 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1015.jpg?77407" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: OMNI 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498692&extension=ts&play_token=lHBsVTNiJV
+#EXTINF:-1 tvg-id="33775" tvg-name="CA: OMNI 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1015.jpg?77407" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: OMNI 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498691&extension=ts&play_token=vEse5hQq1E
+#EXTINF:-1 tvg-id="33776" tvg-name="CA: ONE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3326.png?75355" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ONE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498690&extension=ts&play_token=lRJ6r4KCjK
+#EXTINF:-1 tvg-id="33777" tvg-name="CA: OUT TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/636.jpg?86052" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: OUT TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498689&extension=ts&play_token=lJRqya6TQA
+#EXTINF:-1 tvg-id="33778" tvg-name="CA: OWN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8197.jpg?57682" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: OWN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498688&extension=ts&play_token=S6Y2UuLDzS
+#EXTINF:-1 tvg-id="33779" tvg-name="CA: PBS EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11254.png?86479" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: PBS EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498687&extension=ts&play_token=K2PLg2Gboi
+#EXTINF:-1 tvg-id="33780" tvg-name="CA: PEACH TREE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9360.jpg?34250" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: PEACH TREE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498686&extension=ts&play_token=FUJEmOwsL1
+#EXTINF:-1 tvg-id="33781" tvg-name="CA: PRISE 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1895.jpg?39256" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: PRISE 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498685&extension=ts&play_token=gwBgLQMFZr
+#EXTINF:-1 tvg-id="33782" tvg-name="CA: ICI RDI" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14822.jpg?81237" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: ICI RDI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498684&extension=ts&play_token=uhBRE3MRR4
+#EXTINF:-1 tvg-id="33783" tvg-name="CA: RDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12359.jpg?61473" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: RDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498683&extension=ts&play_token=DZrjXgehe8
+#EXTINF:-1 tvg-id="33784" tvg-name="CA: RDS 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12359.jpg?61473" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: RDS 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1976910&extension=ts&play_token=zwzZfQRn64
+#EXTINF:-1 tvg-id="33785" tvg-name="CA: RDS 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?36672" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: RDS 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498682&extension=ts&play_token=JdO1JtzWF1
+#EXTINF:-1 tvg-id="33786" tvg-name="CA: RDS INFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11431.jpg?30745" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: RDS INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498681&extension=ts&play_token=IbAxokr3w7
+#EXTINF:-1 tvg-id="33787" tvg-name="CA: SERIES PLUS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1243.jpg?16172" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SERIES PLUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498680&extension=ts&play_token=q6ExFTKhHd
+#EXTINF:-1 tvg-id="33788" tvg-name="CA: SHOPPING" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8106.jpg?74402" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SHOPPING
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498679&extension=ts&play_token=ZOLLi7EooQ
+#EXTINF:-1 tvg-id="33789" tvg-name="CA: SHOWCASE EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8539.jpg?25200" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SHOWCASE EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498678&extension=ts&play_token=jWMr6qpUZr
+#EXTINF:-1 tvg-id="33790" tvg-name="CA: SILVER SCREEN CLASSICS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7743.jpg?34362" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SILVER SCREEN CLASSICS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498677&extension=ts&play_token=NXgWmzQf55
+#EXTINF:-1 tvg-id="33791" tvg-name="CA: SLICE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6419.jpg?15374" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SLICE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498676&extension=ts&play_token=crxvTTDBxH
+#EXTINF:-1 tvg-id="33792" tvg-name="CA: SPACE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11388.png?81532" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPACE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498674&extension=ts&play_token=KmGmsCLKRY
+#EXTINF:-1 tvg-id="33793" tvg-name="CA: SPIKE TV / PARAMOUNT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/766.png?75278" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPIKE TV / PARAMOUNT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498673&extension=ts&play_token=enCHcjn6bp
+#EXTINF:-1 tvg-id="33794" tvg-name="CA: SUPER CHANNEL VAULT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3100.jpg?62229" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SUPER CHANNEL VAULT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498665&extension=ts&play_token=lLFom4sJrR
+#EXTINF:-1 tvg-id="33795" tvg-name="CA: SUPER ECRAN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?38491" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SUPER ECRAN 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498663&extension=ts&play_token=um8YKcKv7h
+#EXTINF:-1 tvg-id="33796" tvg-name="CA: TCM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11321.png?24710" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TCM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498660&extension=ts&play_token=PRl1Ecf3P1
+#EXTINF:-1 tvg-id="33797" tvg-name="CA: SUPER ECRAN 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?38491" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SUPER ECRAN 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498661&extension=ts&play_token=ngC1jpCDLu
+#EXTINF:-1 tvg-id="33798" tvg-name="CA: SMITHSONIAN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3051.png?98911" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SMITHSONIAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=695096&extension=ts&play_token=266MowLltJ
+#EXTINF:-1 tvg-id="33799" tvg-name="CA: TELE QUEBEC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3076.png?87713" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TELE QUEBEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498659&extension=ts&play_token=R0Bmm3SWip
+#EXTINF:-1 tvg-id="33800" tvg-name="CA: TELE TOON EAST" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14823.jpg?27587" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TELE TOON EAST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498658&extension=ts&play_token=tANJSyshvF
+#EXTINF:-1 tvg-id="33801" tvg-name="CA: TELE TOON FRENCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14823.jpg?27587" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TELE TOON FRENCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498657&extension=ts&play_token=e3707eTuQy
+#EXTINF:-1 tvg-id="33802" tvg-name="CA: TELEMAGINO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14823.jpg?27587" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TELEMAGINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498656&extension=ts&play_token=BZstQka0Jk
+#EXTINF:-1 tvg-id="33803" tvg-name="CA: TFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8341.jpg?49976" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498655&extension=ts&play_token=1KJVl4hapm
+#EXTINF:-1 tvg-id="33804" tvg-name="CA: W NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9935.jpg?10658" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: W NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498654&extension=ts&play_token=vzlKxcAsEo
+#EXTINF:-1 tvg-id="33805" tvg-name="CA: TLC CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?53267" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TLC CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498653&extension=ts&play_token=kuGuoa02CV
+#EXTINF:-1 tvg-id="33806" tvg-name="CA: TLN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12534.jpg?80370" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TLN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498789&extension=ts&play_token=O6Jpjm63KR
+#EXTINF:-1 tvg-id="33807" tvg-name="CA: TMN 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1116.png?59690" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TMN 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498805&extension=ts&play_token=FmMJ9OSBqt
+#EXTINF:-1 tvg-id="33808" tvg-name="CA: TMN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1116.png?59690" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TMN 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498804&extension=ts&play_token=uY6H3Z9H7U
+#EXTINF:-1 tvg-id="33809" tvg-name="CA: TMN 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14810.png?16359" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TMN 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498803&extension=ts&play_token=KDL47dN4Tz
+#EXTINF:-1 tvg-id="33810" tvg-name="CA: TMN 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14810.png?16359" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TMN 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498802&extension=ts&play_token=8OgPtO6bJL
+#EXTINF:-1 tvg-id="33811" tvg-name="CA: TRAVEL AND ESCAPE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7959.jpg?98964" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TRAVEL AND ESCAPE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498624&extension=ts&play_token=thU6txdJVE
+#EXTINF:-1 tvg-id="33812" tvg-name="CA: TREEHOUSE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6603.jpg?14399" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TREEHOUSE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498652&extension=ts&play_token=0HRcfgSVkM
+#EXTINF:-1 tvg-id="33813" tvg-name="CA: TV5 QUEBEC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8484.jpg?18873" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TV5 QUEBEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498807&extension=ts&play_token=8GciVIckAY
+#EXTINF:-1 tvg-id="33814" tvg-name="CA: TVA SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10179.jpg?62861" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TVA SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498806&extension=ts&play_token=hGTdGB7AIJ
+#EXTINF:-1 tvg-id="33815" tvg-name="CA: TVA SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10179.jpg?31608" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TVA SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1044084&extension=ts&play_token=jx1MQvOKQC
+#EXTINF:-1 tvg-id="33816" tvg-name="CA: TVO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13007.png?84385" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TVO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498651&extension=ts&play_token=vxxLGvEPrW
+#EXTINF:-1 tvg-id="33817" tvg-name="CA: TSC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3297.jpg?73033" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=643336&extension=ts&play_token=nNsUktXO5X
+#EXTINF:-1 tvg-id="33818" tvg-name="CA: UNIS TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1944.png?62738" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: UNIS TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498650&extension=ts&play_token=gOzAMSIXOh
+#EXTINF:-1 tvg-id="33819" tvg-name="CA: VIE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10833.jpg?5155" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: VIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498649&extension=ts&play_token=9m4Jfjiemr
+#EXTINF:-1 tvg-id="33820" tvg-name="CA: VISION" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14483.png?16158" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: VISION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498648&extension=ts&play_token=l5Rx5HT43O
+#EXTINF:-1 tvg-id="33821" tvg-name="CA: VRAK TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7746.jpg?39787" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: VRAK TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498647&extension=ts&play_token=uZBXT86Ugm
+#EXTINF:-1 tvg-id="33822" tvg-name="CA: W NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8476.png?95208" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: W NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498646&extension=ts&play_token=c2jbap6otW
+#EXTINF:-1 tvg-id="33823" tvg-name="CA: WFN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13799.jpg?85248" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: WFN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498645&extension=ts&play_token=Vd6fHmsZWQ
+#EXTINF:-1 tvg-id="33824" tvg-name="CA: WGN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12645.jpg?51000" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: WGN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498644&extension=ts&play_token=NIfBq276ft
+#EXTINF:-1 tvg-id="33825" tvg-name="CA: WILD TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?15154" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: WILD TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498643&extension=ts&play_token=RDixCsUxWJ
+#EXTINF:-1 tvg-id="33826" tvg-name="CA: WSBK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1072.jpg?15545" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: WSBK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498642&extension=ts&play_token=Ts7I2uCNm9
+#EXTINF:-1 tvg-id="33827" tvg-name="CA: YES TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14744.png?25573" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: YES TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498641&extension=ts&play_token=nq0Y0ywl9j
+#EXTINF:-1 tvg-id="33828" tvg-name="CA: YOOPA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8373.jpg?78988" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: YOOPA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498640&extension=ts&play_token=R5RtK49nTz
+#EXTINF:-1 tvg-id="33829" tvg-name="CA: YTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3339.jpg?87482" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: YTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498639&extension=ts&play_token=61Dg7lHbk8
+#EXTINF:-1 tvg-id="33830" tvg-name="CA: YTV E" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3339.jpg?96330" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: YTV E
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498623&extension=ts&play_token=dN7awQnLaJ
+#EXTINF:-1 tvg-id="33831" tvg-name="CA: Z TELE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2325.png?42615" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: Z TELE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498638&extension=ts&play_token=zTCSIKlKES
+#EXTINF:-1 tvg-id="33992" tvg-name="CA EN: CTV CALGARY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/929.jpg?39673" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA EN: CTV CALGARY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1231872&extension=ts&play_token=ovca2LXEBd
+#EXTINF:-1 tvg-id="34040" tvg-name="CA EN: UNIVISION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6453.png?53317" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA EN: UNIVISION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=722119&extension=ts&play_token=yjKVNshVHh
+#EXTINF:-1 tvg-id="34041" tvg-name="CA EN: CTV WINNIPEG HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6453.png?53317" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA EN: CTV WINNIPEG HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1148306&extension=ts&play_token=w4iqeHllvc
+#EXTINF:-1 tvg-id="33832" tvg-name="######## GENERAL FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| GENERAL FR",######## GENERAL FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=413885&extension=ts&play_token=2PqVoEd35q
+#EXTINF:-1 tvg-id="33833" tvg-name="CA FR: CANAL D HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6028.jpg?88039" group-title="CA| GENERAL FR",CA FR: CANAL D HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412862&extension=ts&play_token=nnceLeAq8g
+#EXTINF:-1 tvg-id="33834" tvg-name="CA FR: CANAL M FM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10032.jpg?29435" group-title="CA| GENERAL FR",CA FR: CANAL M FM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412834&extension=ts&play_token=feRqiLZNax
+#EXTINF:-1 tvg-id="33835" tvg-name="CA FR: CANAL SAVOIR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10036.jpg?18137" group-title="CA| GENERAL FR",CA FR: CANAL SAVOIR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412951&extension=ts&play_token=QIgOjjhogb
+#EXTINF:-1 tvg-id="33836" tvg-name="CA FR: CANAL VIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10031.jpg?97885" group-title="CA| GENERAL FR",CA FR: CANAL VIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412950&extension=ts&play_token=G0xx7xJTpi
+#EXTINF:-1 tvg-id="33837" tvg-name="CA FR: CBC MONTREAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2331.jpg?43140" group-title="CA| GENERAL FR",CA FR: CBC MONTREAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412948&extension=ts&play_token=OOb268krnP
+#EXTINF:-1 tvg-id="33838" tvg-name="CA FR: CGTN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11391.jpg?48288" group-title="CA| GENERAL FR",CA FR: CGTN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412891&extension=ts&play_token=59MNOPrWv0
+#EXTINF:-1 tvg-id="33839" tvg-name="CA FR: EMCI TV (FR)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8483.jpg?17550" group-title="CA| GENERAL FR",CA FR: EMCI TV (FR)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412869&extension=ts&play_token=50YAoi7RYt
+#EXTINF:-1 tvg-id="33840" tvg-name="CA FR: ES1 CANADA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11378.jpg?33771" group-title="CA| GENERAL FR",CA FR: ES1 CANADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412888&extension=ts&play_token=oHDer9TUNe
+#EXTINF:-1 tvg-id="33841" tvg-name="CA FR: EURONEWS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6301.jpg?62514" group-title="CA| GENERAL FR",CA FR: EURONEWS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412887&extension=ts&play_token=sajwPHMpq7
+#EXTINF:-1 tvg-id="33842" tvg-name="CA FR: EWTN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11093.jpg?10648" group-title="CA| GENERAL FR",CA FR: EWTN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412818&extension=ts&play_token=uRTYiFcEal
+#EXTINF:-1 tvg-id="33843" tvg-name="CA FR: FRANCE 24" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/328.jpg?324" group-title="CA| GENERAL FR",CA FR: FRANCE 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412885&extension=ts&play_token=wPkI1w20xI
+#EXTINF:-1 tvg-id="33844" tvg-name="CA FR: ICI EXPLORA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11448.jpg?90843" group-title="CA| GENERAL FR",CA FR: ICI EXPLORA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412867&extension=ts&play_token=1Z6j0PK8Cm
+#EXTINF:-1 tvg-id="33845" tvg-name="CA FR: ICI RDI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?81827" group-title="CA| GENERAL FR",CA FR: ICI RDI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412895&extension=ts&play_token=stLyPaZ9XN
+#EXTINF:-1 tvg-id="33846" tvg-name="CA FR: ICI TELE 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?25708" group-title="CA| GENERAL FR",CA FR: ICI TELE 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412822&extension=ts&play_token=FmkGkc0xkk
+#EXTINF:-1 tvg-id="33847" tvg-name="CA FR: ICI TELE ESTRIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE ESTRIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412829&extension=ts&play_token=23u3VQbDPn
+#EXTINF:-1 tvg-id="33848" tvg-name="CA FR: ICI TELE MAURICIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE MAURICIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412827&extension=ts&play_token=0K9vq89Mop
+#EXTINF:-1 tvg-id="33849" tvg-name="CA FR: ICI TELE OTTAWA-GATINEAU HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE OTTAWA-GATINEAU HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412825&extension=ts&play_token=VmJVavw1ru
+#EXTINF:-1 tvg-id="33850" tvg-name="CA FR: ICI TELE SAGUENAY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?7480" group-title="CA| GENERAL FR",CA FR: ICI TELE SAGUENAY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412824&extension=ts&play_token=PqTyBzFGiL
+#EXTINF:-1 tvg-id="33851" tvg-name="CA FR: ICI TELEVISION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?75086" group-title="CA| GENERAL FR",CA FR: ICI TELEVISION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412854&extension=ts&play_token=RmCK12HdHN
+#EXTINF:-1 tvg-id="33852" tvg-name="CA FR: KTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6281.jpg?17661" group-title="CA| GENERAL FR",CA FR: KTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412808&extension=ts&play_token=Zu1DT7I7Mo
+#EXTINF:-1 tvg-id="33853" tvg-name="CA FR: ICI VANCOUVER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?54649" group-title="CA| GENERAL FR",CA FR: ICI VANCOUVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412941&extension=ts&play_token=uR3S1TaBCj
+#EXTINF:-1 tvg-id="33854" tvg-name="CA FR: LCN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1867.jpg?33622" group-title="CA| GENERAL FR",CA FR: LCN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412940&extension=ts&play_token=ygLfPU0uYg
+#EXTINF:-1 tvg-id="33855" tvg-name="CA FR: LCN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1867.jpg?3605" group-title="CA| GENERAL FR",CA FR: LCN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412866&extension=ts&play_token=Lu9tGWwLct
+#EXTINF:-1 tvg-id="33856" tvg-name="CA FR: LE CANAL DE L ASSEMBLEE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8240.jpg?83055" group-title="CA| GENERAL FR",CA FR: LE CANAL DE L ASSEMBLEE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412816&extension=ts&play_token=c4XbCRu6dZ
+#EXTINF:-1 tvg-id="33857" tvg-name="CA FR: LEGISLATIVE ASSEMBLY OF ONTARIO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8240.jpg?83055" group-title="CA| GENERAL FR",CA FR: LEGISLATIVE ASSEMBLY OF ONTARIO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412817&extension=ts&play_token=199x1R00kL
+#EXTINF:-1 tvg-id="33858" tvg-name="CA FR: METEO MEDIA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7738.jpg?15238" group-title="CA| GENERAL FR",CA FR: METEO MEDIA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412938&extension=ts&play_token=rXvIdbQhwq
+#EXTINF:-1 tvg-id="33859" tvg-name="CA FR: MOI&CIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11207.jpg?45385" group-title="CA| GENERAL FR",CA FR: MOI&CIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412896&extension=ts&play_token=XaMdAO2Oaw
+#EXTINF:-1 tvg-id="33860" tvg-name="CA FR: MUSIQUE PLUS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2264.jpg?94608" group-title="CA| GENERAL FR",CA FR: MUSIQUE PLUS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412935&extension=ts&play_token=ff2Nys8re4
+#EXTINF:-1 tvg-id="33861" tvg-name="CA FR: NOOVO V-TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9358.jpg?78453" group-title="CA| GENERAL FR",CA FR: NOOVO V-TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412858&extension=ts&play_token=crILoZHeSb
+#EXTINF:-1 tvg-id="33862" tvg-name="CA FR: PRISE 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1895.jpg?68825" group-title="CA| GENERAL FR",CA FR: PRISE 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412934&extension=ts&play_token=UFM0dOJ1ij
+#EXTINF:-1 tvg-id="33863" tvg-name="CA FR: PRISE2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1895.jpg?90609" group-title="CA| GENERAL FR",CA FR: PRISE2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412901&extension=ts&play_token=GaaFnvRcN6
+#EXTINF:-1 tvg-id="33864" tvg-name="CA FR: RDI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?5735" group-title="CA| GENERAL FR",CA FR: RDI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412933&extension=ts&play_token=2SuK2EYrmw
+#EXTINF:-1 tvg-id="33865" tvg-name="CA FR: RDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?5735" group-title="CA| GENERAL FR",CA FR: RDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412932&extension=ts&play_token=QnXjC5sgKg
+#EXTINF:-1 tvg-id="33866" tvg-name="CA FR: RDS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12359.jpg?63846" group-title="CA| GENERAL FR",CA FR: RDS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412899&extension=ts&play_token=aI3q0otnuQ
+#EXTINF:-1 tvg-id="33867" tvg-name="CA FR: RDS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12359.jpg?63846" group-title="CA| GENERAL FR",CA FR: RDS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=1976911&extension=ts&play_token=UGNTPzT1jB
+#EXTINF:-1 tvg-id="33868" tvg-name="CA FR: RDS 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?5735" group-title="CA| GENERAL FR",CA FR: RDS 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412931&extension=ts&play_token=tzFjMtalCg
+#EXTINF:-1 tvg-id="33869" tvg-name="CA FR: RDS INFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11431.jpg?98468" group-title="CA| GENERAL FR",CA FR: RDS INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412930&extension=ts&play_token=NsAxkxLw8z
+#EXTINF:-1 tvg-id="33870" tvg-name="CA FR: RDS2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12549.jpg?96429" group-title="CA| GENERAL FR",CA FR: RDS2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412898&extension=ts&play_token=u4rLKRnrHz
+#EXTINF:-1 tvg-id="33871" tvg-name="CA FR: ROGERS TV LONDON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2271.jpg?37287" group-title="CA| GENERAL FR",CA FR: ROGERS TV LONDON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412845&extension=ts&play_token=nVqeKDjyF2
+#EXTINF:-1 tvg-id="33872" tvg-name="CA FR: SAVOIR MEDIA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10036.jpg?84102" group-title="CA| GENERAL FR",CA FR: SAVOIR MEDIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412853&extension=ts&play_token=ZMqzTUwppg
+#EXTINF:-1 tvg-id="33873" tvg-name="CA FR: STUDIO CANAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9682.jpg?6137" group-title="CA| GENERAL FR",CA FR: STUDIO CANAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412893&extension=ts&play_token=BCuTTApLFq
+#EXTINF:-1 tvg-id="33874" tvg-name="CA FR: SYFY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?25551" group-title="CA| GENERAL FR",CA FR: SYFY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412806&extension=ts&play_token=x87i18HUco
+#EXTINF:-1 tvg-id="33875" tvg-name="CA FR: TELE QUEBEC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3076.png?21120" group-title="CA| GENERAL FR",CA FR: TELE QUEBEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412925&extension=ts&play_token=b1KCQxDA0A
+#EXTINF:-1 tvg-id="33876" tvg-name="CA FR: SUPER ECRAN 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12528.jpg?2833" group-title="CA| GENERAL FR",CA FR: SUPER ECRAN 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412880&extension=ts&play_token=ayBvBIjL38
+#EXTINF:-1 tvg-id="33877" tvg-name="CA FR: TV 5 QUÉBEC  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7843.jpg?55426" group-title="CA| GENERAL FR",CA FR: TV 5 QUÉBEC  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412878&extension=ts&play_token=V8NXGXWXc2
+#EXTINF:-1 tvg-id="33878" tvg-name="CA FR: TFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8341.jpg?56703" group-title="CA| GENERAL FR",CA FR: TFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412874&extension=ts&play_token=iT3O2wvVtA
+#EXTINF:-1 tvg-id="33879" tvg-name="CA FR: TV ROGERS OTTAWA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2271.jpg?37287" group-title="CA| GENERAL FR",CA FR: TV ROGERS OTTAWA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412846&extension=ts&play_token=LkVN5KRoju
+#EXTINF:-1 tvg-id="33880" tvg-name="CA FR: TV5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7843.jpg?91992" group-title="CA| GENERAL FR",CA FR: TV5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412855&extension=ts&play_token=5rWvEeDEjB
+#EXTINF:-1 tvg-id="33881" tvg-name="CA FR: TV5 MONDE INFO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/93.jpg?54964" group-title="CA| GENERAL FR",CA FR: TV5 MONDE INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412821&extension=ts&play_token=2n5dGBuLhW
+#EXTINF:-1 tvg-id="33882" tvg-name="CA FR: TV5 MONDE STYLE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/106.jpg?54362" group-title="CA| GENERAL FR",CA FR: TV5 MONDE STYLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412820&extension=ts&play_token=R73k5N7jR0
+#EXTINF:-1 tvg-id="33883" tvg-name="CA FR: UNIS TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1944.png?40378" group-title="CA| GENERAL FR",CA FR: UNIS TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412906&extension=ts&play_token=0mXa8QGuoL
+#EXTINF:-1 tvg-id="33884" tvg-name="CA FR: V  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7759.jpg?87763" group-title="CA| GENERAL FR",CA FR: V  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412905&extension=ts&play_token=bkMyDtIpjm
+#EXTINF:-1 tvg-id="33885" tvg-name="CA FR: V MONTREAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7788.jpg?89652" group-title="CA| GENERAL FR",CA FR: V MONTREAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412904&extension=ts&play_token=5xYtILUWbR
+#EXTINF:-1 tvg-id="33886" tvg-name="CA FR: V QUEBEC CITY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7648.jpg?41975" group-title="CA| GENERAL FR",CA FR: V QUEBEC CITY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412876&extension=ts&play_token=ieOx8s1QGF
+#EXTINF:-1 tvg-id="33887" tvg-name="CA FR: V SHERBROOKE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7722.png?55092" group-title="CA| GENERAL FR",CA FR: V SHERBROOKE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412903&extension=ts&play_token=RDpQ9aowhi
+#EXTINF:-1 tvg-id="33888" tvg-name="CA FR: RDS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7746.jpg?12649" group-title="CA| GENERAL FR",CA FR: RDS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412916&extension=ts&play_token=5AR54miF5E
+#EXTINF:-1 tvg-id="33889" tvg-name="CA FR: VU! TELE A LA CARTE 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12480.jpg?25918" group-title="CA| GENERAL FR",CA FR: VU! TELE A LA CARTE 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412860&extension=ts&play_token=nu3HYZKHfW
+#EXTINF:-1 tvg-id="33890" tvg-name="CA FR: VU! TELE A LA CARTE 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12480.jpg?25918" group-title="CA| GENERAL FR",CA FR: VU! TELE A LA CARTE 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412859&extension=ts&play_token=f5n0EBYewT
+#EXTINF:-1 tvg-id="33891" tvg-name="CA FR: YOOPA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8373.jpg?65884" group-title="CA| GENERAL FR",CA FR: YOOPA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412873&extension=ts&play_token=iBcDYbKFqv
+#EXTINF:-1 tvg-id="33892" tvg-name="CA FR: ZESTE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9797.jpg?50311" group-title="CA| GENERAL FR",CA FR: ZESTE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412865&extension=ts&play_token=FLTsGiTvnH
+#EXTINF:-1 tvg-id="33893" tvg-name="CA FR: Z TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2325.png?84562" group-title="CA| GENERAL FR",CA FR: Z TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412915&extension=ts&play_token=NcPJKfNDWD
+#EXTINF:-1 tvg-id="33894" tvg-name="######## CINEMA FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| CINEMA FR",######## CINEMA FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=413884&extension=ts&play_token=oVWZEWdLZP
+#EXTINF:-1 tvg-id="33895" tvg-name="CA FR: ADDIK TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1019.jpg?81973" group-title="CA| CINEMA FR",CA FR: ADDIK TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412954&extension=ts&play_token=FT0YeZUDPz
+#EXTINF:-1 tvg-id="33896" tvg-name="CA FR: BET" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?44253" group-title="CA| CINEMA FR",CA FR: BET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412812&extension=ts&play_token=S7rksk9CN4
+#EXTINF:-1 tvg-id="33897" tvg-name="CA FR: CANAL Z HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10034.jpg?39811" group-title="CA| CINEMA FR",CA FR: CANAL Z HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412857&extension=ts&play_token=7OkasGZKWz
+#EXTINF:-1 tvg-id="33898" tvg-name="CA FR: CINEPOP HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3866.jpg?53472" group-title="CA| CINEMA FR",CA FR: CINEPOP HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412890&extension=ts&play_token=l8hLrFILtP
+#EXTINF:-1 tvg-id="33899" tvg-name="CA FR: ELLE FICTIONS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3320.jpg?85018" group-title="CA| CINEMA FR",CA FR: ELLE FICTIONS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412889&extension=ts&play_token=aXnUyV3j16
+#EXTINF:-1 tvg-id="33900" tvg-name="CA FR: ENGLISH CLUB TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6338.jpg?67730" group-title="CA| CINEMA FR",CA FR: ENGLISH CLUB TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412809&extension=ts&play_token=6T9mkgql3E
+#EXTINF:-1 tvg-id="33901" tvg-name="CA FR: EVASION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8475.jpg?32288" group-title="CA| CINEMA FR",CA FR: EVASION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412886&extension=ts&play_token=ikNeY2VOvx
+#EXTINF:-1 tvg-id="33902" tvg-name="CA FR: FRISSON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8313.jpg?90679" group-title="CA| CINEMA FR",CA FR: FRISSON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412944&extension=ts&play_token=CACBj3PvAo
+#EXTINF:-1 tvg-id="33903" tvg-name="CA FR: ICI MONTREAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11034.jpg?57702" group-title="CA| CINEMA FR",CA FR: ICI MONTREAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412942&extension=ts&play_token=fyklTtz5M2
+#EXTINF:-1 tvg-id="33904" tvg-name="CA FR: MAX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/817.jpg?994" group-title="CA| CINEMA FR",CA FR: MAX HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412939&extension=ts&play_token=HDCclOnFmT
+#EXTINF:-1 tvg-id="33905" tvg-name="CA FR: SERIES+ HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2326.jpg?88930" group-title="CA| CINEMA FR",CA FR: SERIES+ HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412897&extension=ts&play_token=hPQLxLOD03
+#EXTINF:-1 tvg-id="33906" tvg-name="CA FR: SUPER ECRAN 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?15817" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412928&extension=ts&play_token=s7djH4w5LG
+#EXTINF:-1 tvg-id="33907" tvg-name="CA FR: SUPER ECRAN 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?75244" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412883&extension=ts&play_token=EmkMssywfN
+#EXTINF:-1 tvg-id="33908" tvg-name="CA FR: SUPER ECRAN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?15817" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412927&extension=ts&play_token=4aqVlYjEpM
+#EXTINF:-1 tvg-id="33909" tvg-name="CA FR: SUPER ECRAN 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?75244" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412882&extension=ts&play_token=f0Uc7Xi31T
+#EXTINF:-1 tvg-id="33910" tvg-name="CA FR: SUPER ECRAN 3" tvg-logo="http://picons.cmshulk.com/picons/logos/superecran.png" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=498662&extension=ts&play_token=rC5ZPchSOT
+#EXTINF:-1 tvg-id="33911" tvg-name="CA FR: SUPER ECRAN 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?15817" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412926&extension=ts&play_token=SX9Cnp4zOc
+#EXTINF:-1 tvg-id="33912" tvg-name="CA FR: SUPER ECRAN 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3104.jpg?75244" group-title="CA| CINEMA FR",CA FR: SUPER ECRAN 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412881&extension=ts&play_token=SWkW2cM0xk
+#EXTINF:-1 tvg-id="33913" tvg-name="CA FR: TVA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412910&extension=ts&play_token=MIgspsOF3i
+#EXTINF:-1 tvg-id="33914" tvg-name="CA FR: TVA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412909&extension=ts&play_token=ZO5Rv09Uo6
+#EXTINF:-1 tvg-id="33915" tvg-name="CA FR: TVA MONTREAL WEST  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA MONTREAL WEST  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412921&extension=ts&play_token=MvRx6SHoUs
+#EXTINF:-1 tvg-id="33916" tvg-name="CA FR: TVA QUEBEC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12362.png?34439" group-title="CA| CINEMA FR",CA FR: TVA QUEBEC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412919&extension=ts&play_token=TaIqiKUfkE
+#EXTINF:-1 tvg-id="33917" tvg-name="######## KIDS FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| KIDS FR",######## KIDS FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=413882&extension=ts&play_token=q8lBNnqfRX
+#EXTINF:-1 tvg-id="33918" tvg-name="CA FR: BABY TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/631.jpg?86017" group-title="CA| KIDS FR",CA FR: BABY TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412852&extension=ts&play_token=yRoUXYsLeC
+#EXTINF:-1 tvg-id="33919" tvg-name="CA FR: DISNEY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657" group-title="CA| KIDS FR",CA FR: DISNEY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412945&extension=ts&play_token=n3MXENshI8
+#EXTINF:-1 tvg-id="33920" tvg-name="CA FR: ICI TELE ACADIE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?45292" group-title="CA| KIDS FR",CA FR: ICI TELE ACADIE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412833&extension=ts&play_token=Q5RqlamqLS
+#EXTINF:-1 tvg-id="33921" tvg-name="CA FR: ICI TELE ALBERTA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437" group-title="CA| KIDS FR",CA FR: ICI TELE ALBERTA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412832&extension=ts&play_token=nSBPQDoTxc
+#EXTINF:-1 tvg-id="33922" tvg-name="CA FR: ICI TELE CB-YUKON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?18437" group-title="CA| KIDS FR",CA FR: ICI TELE CB-YUKON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412831&extension=ts&play_token=kfaJ3i7jcr
+#EXTINF:-1 tvg-id="33923" tvg-name="CA FR: ICI TELE EST-QUEBEC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6592.jpg?7730" group-title="CA| KIDS FR",CA FR: ICI TELE EST-QUEBEC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412830&extension=ts&play_token=rvxuAkSHEf
+#EXTINF:-1 tvg-id="33924" tvg-name="CA FR: ICI TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?33300" group-title="CA| KIDS FR",CA FR: ICI TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412894&extension=ts&play_token=e08L9HlR8h
+#EXTINF:-1 tvg-id="33925" tvg-name="CA FR: ICI TELE MANITOBA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6130.jpg?48010" group-title="CA| KIDS FR",CA FR: ICI TELE MANITOBA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412828&extension=ts&play_token=PpXeWWfwPl
+#EXTINF:-1 tvg-id="33926" tvg-name="CA FR: ICI TELE SASKATCHEWAN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8121.jpg?31812" group-title="CA| KIDS FR",CA FR: ICI TELE SASKATCHEWAN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412823&extension=ts&play_token=YInxdgZksl
+#EXTINF:-1 tvg-id="33927" tvg-name="CA FR: LA CHAINE DISNEY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?49058" group-title="CA| KIDS FR",CA FR: LA CHAINE DISNEY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412871&extension=ts&play_token=QRJfQ7peMX
+#EXTINF:-1 tvg-id="33928" tvg-name="CA FR: LA CHAINE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?52657" group-title="CA| KIDS FR",CA FR: LA CHAINE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412946&extension=ts&play_token=lXOTpQnCGX
+#EXTINF:-1 tvg-id="33929" tvg-name="CA FR: LUDIKIDS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9848.jpg?73817" group-title="CA| KIDS FR",CA FR: LUDIKIDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412807&extension=ts&play_token=UZNIDhW25y
+#EXTINF:-1 tvg-id="33930" tvg-name="CA FR: TELEMAGINO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?63391" group-title="CA| KIDS FR",CA FR: TELEMAGINO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412924&extension=ts&play_token=Vwku8mDS9e
+#EXTINF:-1 tvg-id="33931" tvg-name="CA FR: TELEMAGINO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1953.jpg?25353" group-title="CA| KIDS FR",CA FR: TELEMAGINO HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412912&extension=ts&play_token=XETR0qhBz6
+#EXTINF:-1 tvg-id="33932" tvg-name="CA FR: TELETOON" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?22052" group-title="CA| KIDS FR",CA FR: TELETOON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412805&extension=ts&play_token=3bWCZSSAF7
+#EXTINF:-1 tvg-id="33933" tvg-name="CA FR: TELETOON FRENCH HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?90842" group-title="CA| KIDS FR",CA FR: TELETOON FRENCH HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412911&extension=ts&play_token=AbB7i2sJKp
+#EXTINF:-1 tvg-id="33934" tvg-name="CA FR: TELETOON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6239.jpg?91314" group-title="CA| KIDS FR",CA FR: TELETOON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412923&extension=ts&play_token=zsHcQ74CTq
+#EXTINF:-1 tvg-id="33935" tvg-name="CA FR: TIVI 5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/846.jpg?93491" group-title="CA| KIDS FR",CA FR: TIVI 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412819&extension=ts&play_token=UnjYFkH2Xv
+#EXTINF:-1 tvg-id="33936" tvg-name="######## SPORTS FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| SPORTS FR",######## SPORTS FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=413883&extension=ts&play_token=IwPWdWv5QU
+#EXTINF:-1 tvg-id="33937" tvg-name="CA FR: MOI SPORT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4724.jpg?89823" group-title="CA| SPORTS FR",CA FR: MOI SPORT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412936&extension=ts&play_token=IKh1KfJrmo
+#EXTINF:-1 tvg-id="33938" tvg-name="CA FR: TSN/RDS EXTRA 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412847&extension=ts&play_token=4QNLrU4IR5
+#EXTINF:-1 tvg-id="33939" tvg-name="CA FR: TSN/RDS EXTRA 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412848&extension=ts&play_token=bQVfYBHbNy
+#EXTINF:-1 tvg-id="33940" tvg-name="CA FR: TSN/RDS EXTRA 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412849&extension=ts&play_token=3RDHOjeMoO
+#EXTINF:-1 tvg-id="33941" tvg-name="CA FR: TSN/RDS EXTRA 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412850&extension=ts&play_token=jU9AMHEYvb
+#EXTINF:-1 tvg-id="33942" tvg-name="CA FR: TSN/RDS EXTRA 5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12542.jpg?89153" group-title="CA| SPORTS FR",CA FR: TSN/RDS EXTRA 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412851&extension=ts&play_token=BfHKVbM1hh
+#EXTINF:-1 tvg-id="33943" tvg-name="CA FR: TVA SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6010.jpg?38066" group-title="CA| SPORTS FR",CA FR: TVA SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412908&extension=ts&play_token=mukit929SD
+#EXTINF:-1 tvg-id="33944" tvg-name="CA FR: TVA SPORTS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12739.jpg?26322" group-title="CA| SPORTS FR",CA FR: TVA SPORTS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412907&extension=ts&play_token=FAjDJCrCfh
+#EXTINF:-1 tvg-id="33945" tvg-name="######## MUSIC FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| MUSIC FR",######## MUSIC FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=413881&extension=ts&play_token=Gb5eGup0gO
+#EXTINF:-1 tvg-id="33946" tvg-name="CA FR: ARTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11265.jpg?56274" group-title="CA| MUSIC FR",CA FR: ARTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412953&extension=ts&play_token=9bfW92lW7j
+#EXTINF:-1 tvg-id="33947" tvg-name="CA FR: ICI ARTV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11265.jpg?56274" group-title="CA| MUSIC FR",CA FR: ICI ARTV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412868&extension=ts&play_token=0ghJWgLBue
+#EXTINF:-1 tvg-id="33948" tvg-name="CA FR: MEZZO LIVE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11323.jpg?96218" group-title="CA| MUSIC FR",CA FR: MEZZO LIVE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412856&extension=ts&play_token=LVbsSVRDcv
+#EXTINF:-1 tvg-id="33949" tvg-name="CA FR: MUSIC PLUS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9388.jpg?17398" group-title="CA| MUSIC FR",CA FR: MUSIC PLUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412815&extension=ts&play_token=tCtVSF3z0Q
+#EXTINF:-1 tvg-id="33950" tvg-name="CA FR: STINGRAY CLASSICA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3184.jpg?62030" group-title="CA| MUSIC FR",CA FR: STINGRAY CLASSICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412810&extension=ts&play_token=vEqZkyac63
+#EXTINF:-1 tvg-id="33951" tvg-name="CA FR: STINGRAY HITS! HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9899.jpg?40533" group-title="CA| MUSIC FR",CA FR: STINGRAY HITS! HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412811&extension=ts&play_token=KK0JrghjQs
+#EXTINF:-1 tvg-id="33952" tvg-name="CA FR: TRACE  URBAN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4757.jpg?85209" group-title="CA| MUSIC FR",CA FR: TRACE  URBAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412843&extension=ts&play_token=zJQ6YBWpGF
+#EXTINF:-1 tvg-id="33953" tvg-name="CA FR: TRACE AFRICA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8337.jpg?26726" group-title="CA| MUSIC FR",CA FR: TRACE AFRICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412844&extension=ts&play_token=93Qcly9ybf
+#EXTINF:-1 tvg-id="33954" tvg-name="CA FR: TRACE NAIJA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8328.jpg?12011" group-title="CA| MUSIC FR",CA FR: TRACE NAIJA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412842&extension=ts&play_token=RZe0XvC56V
+#EXTINF:-1 tvg-id="33955" tvg-name="CA FR: TRACE TOCA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11277.png?ver=59308" group-title="CA| MUSIC FR",CA FR: TRACE TOCA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412841&extension=ts&play_token=4BztEUN0XM
+#EXTINF:-1 tvg-id="33956" tvg-name="CA FR: TRACE URBAN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4757.jpg?44745" group-title="CA| MUSIC FR",CA FR: TRACE URBAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412840&extension=ts&play_token=mVW0vo5jD4
+#EXTINF:-1 tvg-id="33957" tvg-name="######## DOCUMENTARY FR ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| DOCUMENTARY FR",######## DOCUMENTARY FR ########
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=413880&extension=ts&play_token=X1LLp4RtiN
+#EXTINF:-1 tvg-id="33958" tvg-name="CA FR: AHC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11097.jpg?61256" group-title="CA| DOCUMENTARY FR",CA FR: AHC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412814&extension=ts&play_token=BulQCFJRK5
+#EXTINF:-1 tvg-id="33959" tvg-name="CA FR: AMI TELE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3003.jpg?50634" group-title="CA| DOCUMENTARY FR",CA FR: AMI TELE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412937&extension=ts&play_token=PQsT4BeSn8
+#EXTINF:-1 tvg-id="33960" tvg-name="CA FR: APTN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5992.jpg?37074" group-title="CA| DOCUMENTARY FR",CA FR: APTN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412813&extension=ts&play_token=cQqabo0FAa
+#EXTINF:-1 tvg-id="33961" tvg-name="CA FR: CANAL V" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10031.jpg?76379" group-title="CA| DOCUMENTARY FR",CA FR: CANAL V
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412875&extension=ts&play_token=mlZkuWIh6v
+#EXTINF:-1 tvg-id="33962" tvg-name="CA FR: CASA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2376.jpg?16209" group-title="CA| DOCUMENTARY FR",CA FR: CASA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412949&extension=ts&play_token=xC96VGI1vj
+#EXTINF:-1 tvg-id="33963" tvg-name="CA FR: CASA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2376.jpg?16209" group-title="CA| DOCUMENTARY FR",CA FR: CASA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412892&extension=ts&play_token=ZHafjHuhpd
+#EXTINF:-1 tvg-id="33964" tvg-name="CA FR: HISTORIA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11257.jpg?24778" group-title="CA| DOCUMENTARY FR",CA FR: HISTORIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412943&extension=ts&play_token=W4Az2u6K9q
+#EXTINF:-1 tvg-id="33965" tvg-name="CA FR: HISTORIA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11257.jpg?86555" group-title="CA| DOCUMENTARY FR",CA FR: HISTORIA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412863&extension=ts&play_token=JZnf47TRYu
+#EXTINF:-1 tvg-id="33966" tvg-name="CA FR: ICI RADIO CANADA TELE MONCTON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO CANADA TELE MONCTON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412836&extension=ts&play_token=m5tKIcTCH9
+#EXTINF:-1 tvg-id="33967" tvg-name="CA FR: ICI RADIO CANADA TELE VANCOUVER HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO CANADA TELE VANCOUVER HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412835&extension=ts&play_token=f5WdlI6iGu
+#EXTINF:-1 tvg-id="33968" tvg-name="CA FR: ICI RADIO TELE TORONTO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO TELE TORONTO HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412838&extension=ts&play_token=ihtY90pcsI
+#EXTINF:-1 tvg-id="33969" tvg-name="CA FR: ICI RADIO-CANADA TELE TORONTO" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO-CANADA TELE TORONTO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412839&extension=ts&play_token=5MxMp6jaAl
+#EXTINF:-1 tvg-id="33970" tvg-name="CA FR: ICI RADIO-CANADA TÉLÉ TORONTO  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10003.jpg?69850" group-title="CA| DOCUMENTARY FR",CA FR: ICI RADIO-CANADA TÉLÉ TORONTO  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412837&extension=ts&play_token=XgCOyiCfqc
+#EXTINF:-1 tvg-id="33971" tvg-name="CA FR: INVESTIGATION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3959.jpg?32" group-title="CA| DOCUMENTARY FR",CA FR: INVESTIGATION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:A2:6D&stream=412872&extension=ts&play_token=6d8agVb08r
